@@ -23,7 +23,7 @@ P0 manuscript-completeness items from `PDAC_CAF_myeloid_manuscript_revision_task
 
 ## Still Requires Author Input
 
-- Persistent code repository or DOI: local code and plotting-code indexes exist, but a GitHub reviewer-access link and later public DOI/release still need to be created before submission/publication.
+- Persistent code repository or DOI: the private GitHub repository `https://github.com/zzf617128/pdac_spatial_ecology` has been created and pushed. Reviewer access settings may still need to be enabled according to journal instructions, and a public DOI/release should be created before publication.
 - Optional ORCID details if required by the target journal.
 
 ## Verification

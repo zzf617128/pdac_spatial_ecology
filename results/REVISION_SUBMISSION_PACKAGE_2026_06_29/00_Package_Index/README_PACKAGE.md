@@ -33,7 +33,7 @@ This package stages the current revised PDAC CAF-myeloid spatial-ecology manuscr
 
 ## Items still needing author or journal input
 
-- Reviewer-accessible code/source-data repository link.
+- Reviewer access settings for the private GitHub repository, if required by the journal portal.
 - Target-journal figure-format conversion and final visual rendering QA.
 
 ## QA files to read first

@@ -12,6 +12,10 @@ The current submission-ready working package is:
 
 - `results/REVISION_SUBMISSION_PACKAGE_2026_06_29/`
 
+GitHub repository:
+
+- `https://github.com/zzf617128/pdac_spatial_ecology`
+
 Key files:
 
 - Revised manuscript: `results/revision_2026_06_29/manuscript/Manuscript_NatureSubjournal_revised.docx`

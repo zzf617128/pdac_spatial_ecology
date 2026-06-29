@@ -17,7 +17,7 @@ Date: 2026-06-29
 ## Needs author or journal-specific completion
 
 - Confirm final ORCID details if required by the journal.
-- Add reviewer-accessible repository link in Code availability.
+- Confirm reviewer access settings for the private GitHub repository if required by the journal portal.
 - Confirm whether the target journal wants figure files as PDF, EPS, TIFF or separate panel files.
 - Repeat final visual DOCX/PDF render QA before upload.
 - Confirm whether the panel-level plotting-code archive should be uploaded as part of the code repository, source-data package or supplementary software.

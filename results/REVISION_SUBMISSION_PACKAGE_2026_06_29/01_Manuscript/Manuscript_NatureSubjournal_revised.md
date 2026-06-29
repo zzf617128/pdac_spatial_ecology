@@ -210,7 +210,7 @@ Module-level figure provenance is summarized in `results/reports/submission_figu
 
 ## Code availability
 
-The analysis code, processed source tables and figure-generation scripts will be made available for peer review at [GITHUB REVIEWER-ACCESS LINK TO BE ADDED AFTER REPOSITORY CREATION]. A permanent DOI-linked public repository will be released upon publication. The repository will include scripts for spatial preprocessing, module scoring, same-size random-core analyses, spatially contiguous random-core controls, anchor-component sensitivity, marker-overlap sensitivity, lymph-node leave-one-out analysis, NMF rank stability, Xenium validation, TCGA context analysis, figure generation and the panel-level plotting-code archive. A detailed local script and provenance index is maintained in `results/reports/submission_package_index.md`.
+The analysis code, processed source tables and figure-generation scripts are staged for peer review in a private GitHub repository at `https://github.com/zzf617128/pdac_spatial_ecology`; reviewer access can be enabled during journal evaluation. A permanent DOI-linked public repository will be released upon publication. The repository includes scripts for spatial preprocessing, module scoring, same-size random-core analyses, spatially contiguous random-core controls, anchor-component sensitivity, marker-overlap sensitivity, lymph-node leave-one-out analysis, NMF rank stability, Xenium validation, TCGA context analysis, figure generation and the panel-level plotting-code archive. A detailed local script and provenance index is maintained in `results/reports/submission_package_index.md`.
 
 ## Acknowledgements
 
@@ -222,7 +222,7 @@ Z.Z., T.T., M.G., J.H. and K.J. conceptualized the study. Z.Z. designed and impl
 
 ## Funding
 
-Funding information was not provided in the current author-supplied metadata and should be completed by the authors before formal submission.
+This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors.
 
 ## Competing interests
 
