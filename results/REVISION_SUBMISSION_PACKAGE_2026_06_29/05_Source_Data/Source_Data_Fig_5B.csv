@@ -1,0 +1,17 @@
+cohort_context,dominant_nmf_ecotype,dominant_nmf_ecotype_label,n_samples,median_decoupling
+liver_metastasis,NMF2,plasma cell / immune core / T cell,8,0.2649233359295275
+liver_metastasis,NMF3,DC/APC / IFN/MHC / immune core,4,0.3971573557222586
+lymph_node_metastasis,NMF1,basal-like / tumor aggressive / plasma cell,1,1.2217705678521218
+lymph_node_metastasis,NMF2,plasma cell / immune core / T cell,1,0.1371733776953582
+lymph_node_metastasis,NMF3,DC/APC / IFN/MHC / immune core,1,0.7732310278072387
+lymph_node_metastasis,NMF4,EMT/invasion / hypoxia / myCAF,2,1.4128055361461926
+normal_pancreas,NMF2,plasma cell / immune core / T cell,3,0.35417985373523286
+post_neoadjuvant_sections,NMF1,basal-like / tumor aggressive / plasma cell,2,0.8885011136102081
+post_neoadjuvant_sections,NMF2,plasma cell / immune core / T cell,41,0.35343196703640556
+post_neoadjuvant_sections,NMF3,DC/APC / IFN/MHC / immune core,50,0.46970691975333445
+post_neoadjuvant_sections,NMF4,EMT/invasion / hypoxia / myCAF,15,0.9677296817418741
+primary_tumor,NMF2,plasma cell / immune core / T cell,3,0.40755931796436673
+primary_tumor,NMF3,DC/APC / IFN/MHC / immune core,6,0.42565294764445805
+primary_tumor,NMF4,EMT/invasion / hypoxia / myCAF,1,0.7456861668801467
+treatment_naive_primary,NMF2,plasma cell / immune core / T cell,2,0.3371846314691715
+treatment_naive_primary,NMF3,DC/APC / IFN/MHC / immune core,3,0.3022019428918626

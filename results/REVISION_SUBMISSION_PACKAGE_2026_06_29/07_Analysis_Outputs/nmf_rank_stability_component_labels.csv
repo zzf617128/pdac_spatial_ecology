@@ -1,0 +1,36 @@
+rank,component,top_program_1,top_program_2,top_program_3,top_program_4,top_program_5,component_label
+2,rank2_NMF1,immune core,DC/APC,IFN/MHC,B cell,apCAF,immune core / DC/APC / IFN/MHC
+2,rank2_NMF2,tumor aggressive,hypoxia,basal-like,EMT/invasion,myCAF,tumor aggressive / hypoxia / basal-like
+3,rank3_NMF1,immune core,DC/APC,IFN/MHC,B cell,apCAF,immune core / DC/APC / IFN/MHC
+3,rank3_NMF2,basal-like,tumor aggressive,hypoxia,EMT/invasion,SPP1/TREM2 TAM,basal-like / tumor aggressive / hypoxia
+3,rank3_NMF3,myCAF,plasma cell,EMT/invasion,iCAF,TGF-beta,myCAF / plasma cell / EMT/invasion
+4,rank4_NMF1,DC/APC,immune core,IFN/MHC,B cell,apCAF,DC/APC / immune core / IFN/MHC
+4,rank4_NMF2,EMT/invasion,hypoxia,myCAF,tumor aggressive,TGF-beta,EMT/invasion / hypoxia / myCAF
+4,rank4_NMF3,plasma cell,immune core,T cell,B cell,DC/APC,plasma cell / immune core / T cell
+4,rank4_NMF4,basal-like,tumor aggressive,hypoxia,plasma cell,IFN/MHC,basal-like / tumor aggressive / hypoxia
+5,rank5_NMF1,immune core,B cell,DC/APC,IFN/MHC,T cell,immune core / B cell / DC/APC
+5,rank5_NMF2,EMT/invasion,myCAF,hypoxia,iCAF,TGF-beta,EMT/invasion / myCAF / hypoxia
+5,rank5_NMF3,plasma cell,myCAF,iCAF,T cell,immune core,plasma cell / myCAF / iCAF
+5,rank5_NMF4,basal-like,tumor aggressive,hypoxia,EMT/invasion,TGF-beta,basal-like / tumor aggressive / hypoxia
+5,rank5_NMF5,SPP1/TREM2 TAM,apCAF,hypoxia,myeloid,IFN/MHC,SPP1/TREM2 TAM / apCAF / hypoxia
+6,rank6_NMF1,immune core,B cell,DC/APC,IFN/MHC,T cell,immune core / B cell / DC/APC
+6,rank6_NMF2,EMT/invasion,myCAF,TGF-beta,tumor aggressive,SPP1/TREM2 TAM,EMT/invasion / myCAF / TGF-beta
+6,rank6_NMF3,plasma cell,myCAF,T cell,immune core,apCAF,plasma cell / myCAF / T cell
+6,rank6_NMF4,basal-like,tumor aggressive,hypoxia,IFN/MHC,EMT/invasion,basal-like / tumor aggressive / hypoxia
+6,rank6_NMF5,SPP1/TREM2 TAM,apCAF,IFN/MHC,myeloid,DC/APC,SPP1/TREM2 TAM / apCAF / IFN/MHC
+6,rank6_NMF6,hypoxia,iCAF,tumor aggressive,EMT/invasion,SPP1/TREM2 TAM,hypoxia / iCAF / tumor aggressive
+7,rank7_NMF1,immune core,T cell,DC/APC,EMT/invasion,B cell,immune core / T cell / DC/APC
+7,rank7_NMF2,myCAF,EMT/invasion,TGF-beta,tumor aggressive,iCAF,myCAF / EMT/invasion / TGF-beta
+7,rank7_NMF3,plasma cell,T cell,myCAF,immune core,IFN/MHC,plasma cell / T cell / myCAF
+7,rank7_NMF4,basal-like,tumor aggressive,hypoxia,IFN/MHC,B cell,basal-like / tumor aggressive / hypoxia
+7,rank7_NMF5,apCAF,DC/APC,IFN/MHC,SPP1/TREM2 TAM,myeloid,apCAF / DC/APC / IFN/MHC
+7,rank7_NMF6,hypoxia,iCAF,SPP1/TREM2 TAM,tumor aggressive,EMT/invasion,hypoxia / iCAF / SPP1/TREM2 TAM
+7,rank7_NMF7,immune core,B cell,DC/APC,IFN/MHC,T cell,immune core / B cell / DC/APC
+8,rank8_NMF1,B cell,immune core,DC/APC,IFN/MHC,apCAF,B cell / immune core / DC/APC
+8,rank8_NMF2,myCAF,EMT/invasion,iCAF,TGF-beta,tumor aggressive,myCAF / EMT/invasion / iCAF
+8,rank8_NMF3,plasma cell,T cell,immune core,B cell,IFN/MHC,plasma cell / T cell / immune core
+8,rank8_NMF4,basal-like,tumor aggressive,plasma cell,hypoxia,myCAF,basal-like / tumor aggressive / plasma cell
+8,rank8_NMF5,SPP1/TREM2 TAM,apCAF,DC/APC,IFN/MHC,myeloid,SPP1/TREM2 TAM / apCAF / DC/APC
+8,rank8_NMF6,hypoxia,tumor aggressive,EMT/invasion,SPP1/TREM2 TAM,TGF-beta,hypoxia / tumor aggressive / EMT/invasion
+8,rank8_NMF7,iCAF,hypoxia,apCAF,myCAF,myeloid,iCAF / hypoxia / apCAF
+8,rank8_NMF8,immune core,B cell,T cell,IFN/MHC,basal-like,immune core / B cell / T cell

@@ -1,0 +1,7 @@
+dataset_id,specimen_type_curated,n_samples
+GSE272362,liver_metastasis,12
+GSE272362,lymph_node_metastasis,5
+GSE272362,normal_pancreas,3
+GSE272362,primary_tumor,10
+GSE274103,treatment_naive_pdac,5
+GSE282302,pdac_residual_or_primary_metadata_required,108

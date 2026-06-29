@@ -1,0 +1,39 @@
+mvp:
+  accessions:
+    - GSE272362
+    - GSE282302
+    - GSE274103
+  first_pass_outputs:
+    - metadata/dataset_manifest_curated.csv
+    - metadata/sample_qc_summary.csv
+    - results/tables/mvp_sample_level_scores.csv
+    - results/tables/mvp_story_screening_table.csv
+    - docs/mvp_decision_report.md
+
+qc:
+  min_counts_per_spot: 500
+  min_genes_per_spot: 200
+  max_mito_percent: 25
+  min_tissue_spots_per_sample: 100
+  require_in_tissue_flag_if_available: true
+
+normalization:
+  target_sum: 10000
+  log1p: true
+  store_raw_counts: true
+
+immune_hub_detection:
+  core_score_percentile: 90
+  min_connected_spots_visium: 3
+  maturity_high_percentile: 75
+  maturity_low_percentile: 50
+  use_within_sample_thresholds: true
+  require_multiaxis_support: true
+  manual_overlay_required_for_main_claim: true
+
+modeling:
+  split_level: "patient_or_sample"
+  forbidden_split_level: "spot_random"
+  leave_one_dataset_out: true
+  random_seed: 20260623
+

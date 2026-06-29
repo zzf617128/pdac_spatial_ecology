@@ -1,0 +1,12 @@
+[project]
+name = "pdac-spatial-ecology"
+version = "0.1.0"
+description = "Bias-aware MVP analysis of PDAC spatial transcriptomics and H&E ecology."
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+

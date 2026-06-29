@@ -1,0 +1,34 @@
+figure,panel,source_file,metric,note,group,n_samples,value,support,core_label
+Figure 1,A,manual cohort summary,cohort/sample counts,GSE282302: 108 sections; GSE274103: 5 sections; GSE272362 RDS: 30 samples,,,,,
+Figure 1,B,mvp_random_core_permutation_summary.csv,ifn_mhc delta_vs_null,,GSE274103,5,-0.253412780051469,5/5,
+Figure 1,B,mvp_random_core_permutation_summary.csv,immune_core delta_vs_null,,GSE274103,5,-0.166175911446206,5/5,
+Figure 1,B,mvp_random_core_permutation_summary.csv,immune_maturity delta_vs_null,,GSE274103,5,-0.130160547543657,5/5,
+Figure 1,B,mvp_random_core_permutation_summary.csv,tumor_aggressive delta_vs_null,,GSE274103,5,-0.150227661016657,5/5,
+Figure 1,B,mvp_random_core_permutation_summary.csv,ifn_mhc delta_vs_null,,GSE282302,108,-0.289728269125832,93/108,
+Figure 1,B,mvp_random_core_permutation_summary.csv,immune_core delta_vs_null,,GSE282302,108,-0.220222213584424,87/108,
+Figure 1,B,mvp_random_core_permutation_summary.csv,immune_maturity delta_vs_null,,GSE282302,108,-0.131452161390068,78/108,
+Figure 1,B,mvp_random_core_permutation_summary.csv,tumor_aggressive delta_vs_null,,GSE282302,108,-0.340772435034367,94/108,
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,,GSE274103,5,-0.247125186468384,,top_15
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,,GSE274103,5,-0.250506462250504,,top_10
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,,GSE274103,5,-0.2346318311015,,top_5
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,,GSE274103,5,-0.20640465427346,,top_15
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,,GSE274103,5,-0.161945393308151,,top_10
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,,GSE274103,5,-0.164102421208019,,top_5
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,,GSE274103,5,-0.152733132399448,,top_15
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,,GSE274103,5,-0.129799066814502,,top_10
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,,GSE274103,5,-0.126455288696103,,top_5
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,,GSE274103,5,-0.124381314115735,,top_15
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,,GSE274103,5,-0.148349176026827,,top_10
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,,GSE274103,5,-0.146449300247145,,top_5
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,,GSE282302,108,-0.302999124212851,,top_15
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,,GSE282302,108,-0.294263047239777,,top_10
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,,GSE282302,108,-0.263262964252324,,top_5
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,,GSE282302,108,-0.240072040675845,,top_15
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,,GSE282302,108,-0.222452410895966,,top_10
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,,GSE282302,108,-0.188136495171479,,top_5
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,,GSE282302,108,-0.163716918079981,,top_15
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,,GSE282302,108,-0.133034195139901,,top_10
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,,GSE282302,108,-0.147704157763477,,top_5
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,,GSE282302,108,-0.366104778739927,,top_15
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,,GSE282302,108,-0.344824033610104,,top_10
+Figure 1,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,,GSE282302,108,-0.307953079052918,,top_5

@@ -1,0 +1,77 @@
+specimen_type,program,program_label,n_samples,median_rho,iqr_rho,n_negative,n_positive
+liver_metastasis,mycaf,myCAF,12,-0.451868714508999,0.24114581667079,12,0
+liver_metastasis,pan_caf,pan-CAF,12,-0.405670939914459,0.218936762360775,12,0
+liver_metastasis,ifn_mhc,IFN/MHC,12,-0.38004456682568,0.122052718269846,12,0
+liver_metastasis,myeloid,Myeloid,12,-0.375317554249152,0.100652358842453,12,0
+liver_metastasis,spp1_tam,SPP1/TREM2 TAM,12,-0.34913045590695,0.12428418679733,11,1
+liver_metastasis,immune_core,Immune core,12,-0.326892701454118,0.126382698408116,12,0
+liver_metastasis,emt_invasion,EMT/invasion,12,-0.319173031569188,0.181426241136734,12,0
+liver_metastasis,tgfb,TGF-beta,12,-0.311619990120021,0.128473455510851,12,0
+liver_metastasis,tumor_aggressive,Tumor-aggressive,12,-0.304836207256358,0.129956161994113,11,1
+liver_metastasis,dc_apc,DC/APC,12,-0.292183680751827,0.0900583122900608,12,0
+liver_metastasis,b_cell,B cell,12,-0.262808005796279,0.13248528973709,12,0
+liver_metastasis,apcaf,apCAF,12,-0.241118742041373,0.117327660877376,12,0
+liver_metastasis,plasma_cell,Plasma cell,12,-0.201350908256985,0.126996337013338,11,1
+liver_metastasis,icaf,iCAF,12,-0.199336065311273,0.0748034240278047,12,0
+liver_metastasis,basal_like,Basal-like tumor,12,-0.17749409217055,0.161950072392259,11,1
+liver_metastasis,t_cell,T cell,12,-0.131024905674242,0.0774183240865653,12,0
+liver_metastasis,neural_schwann,Neural/Schwann,12,-0.127598535638674,0.0932577209467345,11,1
+liver_metastasis,classical_like,Classical-like tumor,12,-0.116391025987408,0.163486955858217,10,2
+liver_metastasis,hypoxia,Hypoxia,12,-0.0768458244945641,0.130448533913235,11,1
+lymph_node_metastasis,pan_caf,pan-CAF,5,-0.542747934641094,0.0368248329029818,5,0
+lymph_node_metastasis,mycaf,myCAF,5,-0.537612970808225,0.0645834116004217,5,0
+lymph_node_metastasis,tgfb,TGF-beta,5,-0.500220781116419,0.116531937947398,5,0
+lymph_node_metastasis,emt_invasion,EMT/invasion,5,-0.460220713077493,0.00933211789047478,5,0
+lymph_node_metastasis,tumor_aggressive,Tumor-aggressive,5,-0.399482776547609,0.0847872368007061,5,0
+lymph_node_metastasis,spp1_tam,SPP1/TREM2 TAM,5,-0.396191344039897,0.188420116422738,5,0
+lymph_node_metastasis,myeloid,Myeloid,5,-0.373678271252742,0.123913198995466,5,0
+lymph_node_metastasis,basal_like,Basal-like tumor,5,-0.298891524064035,0.0794149127009099,4,1
+lymph_node_metastasis,icaf,iCAF,5,-0.262135421661563,0.0703556275679519,5,0
+lymph_node_metastasis,classical_like,Classical-like tumor,5,-0.2448136249429,0.287542061254475,4,1
+lymph_node_metastasis,hypoxia,Hypoxia,5,-0.233841861502645,0.0464021521318849,4,1
+lymph_node_metastasis,apcaf,apCAF,5,-0.0889384911035988,0.298733898997593,3,2
+lymph_node_metastasis,plasma_cell,Plasma cell,5,-0.0797560687136066,0.091751115248005,4,1
+lymph_node_metastasis,neural_schwann,Neural/Schwann,5,-0.0484798760417357,0.0619129630954034,4,1
+lymph_node_metastasis,ifn_mhc,IFN/MHC,5,0.0137889957894828,0.268382375796989,2,3
+lymph_node_metastasis,t_cell,T cell,5,0.0885419277756691,0.368162512965109,2,3
+lymph_node_metastasis,dc_apc,DC/APC,5,0.161768796259971,0.38142262344932,2,3
+lymph_node_metastasis,b_cell,B cell,5,0.170605363666434,0.378428113826309,2,3
+lymph_node_metastasis,immune_core,Immune core,5,0.231580584716767,0.464483653166976,2,3
+normal_pancreas,mycaf,myCAF,3,-0.40094328571551,0.108493303547092,3,0
+normal_pancreas,pan_caf,pan-CAF,3,-0.391034727477552,0.111468433790843,3,0
+normal_pancreas,apcaf,apCAF,3,-0.310952518779461,0.0876643011393321,3,0
+normal_pancreas,immune_core,Immune core,3,-0.262101046205449,0.087412359086189,3,0
+normal_pancreas,ifn_mhc,IFN/MHC,3,-0.258187192502387,0.134907640901625,3,0
+normal_pancreas,spp1_tam,SPP1/TREM2 TAM,3,-0.209447478504072,0.106987305835731,3,0
+normal_pancreas,myeloid,Myeloid,3,-0.188496739967226,0.0242772631729389,3,0
+normal_pancreas,tgfb,TGF-beta,3,-0.176628141642494,0.080124383732338,3,0
+normal_pancreas,dc_apc,DC/APC,3,-0.167019202101078,0.0671195185083063,3,0
+normal_pancreas,icaf,iCAF,3,-0.161480862676494,0.015041984222193,3,0
+normal_pancreas,b_cell,B cell,3,-0.15328234054642,0.0530975924562443,3,0
+normal_pancreas,classical_like,Classical-like tumor,3,-0.128452253635509,0.0871836795586028,2,1
+normal_pancreas,plasma_cell,Plasma cell,3,-0.113951590173775,0.125287367014449,2,1
+normal_pancreas,tumor_aggressive,Tumor-aggressive,3,-0.110578913260736,0.0640978739794635,3,0
+normal_pancreas,emt_invasion,EMT/invasion,3,-0.103809223181741,0.126540730113298,3,0
+normal_pancreas,t_cell,T cell,3,-0.069889435700111,0.0298918417474175,3,0
+normal_pancreas,neural_schwann,Neural/Schwann,3,-0.034925418039893,0.00471109802620364,3,0
+normal_pancreas,basal_like,Basal-like tumor,3,-0.0275313439615644,0.0213288802760035,3,0
+normal_pancreas,hypoxia,Hypoxia,3,-0.0180222609073118,0.0772247461800658,2,1
+primary_tumor,pan_caf,pan-CAF,10,-0.455244582329882,0.120149210706041,10,0
+primary_tumor,mycaf,myCAF,10,-0.415470019268978,0.107924210688625,10,0
+primary_tumor,emt_invasion,EMT/invasion,10,-0.414971537012723,0.0711881478083038,10,0
+primary_tumor,tgfb,TGF-beta,10,-0.398029942681319,0.105164838457586,10,0
+primary_tumor,spp1_tam,SPP1/TREM2 TAM,10,-0.391344507053389,0.0924040597052396,10,0
+primary_tumor,myeloid,Myeloid,10,-0.350143860890985,0.0906191700906223,10,0
+primary_tumor,ifn_mhc,IFN/MHC,10,-0.292729270681862,0.116874260392973,10,0
+primary_tumor,tumor_aggressive,Tumor-aggressive,10,-0.28248214804208,0.168649827955784,10,0
+primary_tumor,icaf,iCAF,10,-0.272474289913102,0.0725004671734634,10,0
+primary_tumor,dc_apc,DC/APC,10,-0.232374669448169,0.0904193841829152,10,0
+primary_tumor,immune_core,Immune core,10,-0.201424627392588,0.228471317558346,9,1
+primary_tumor,apcaf,apCAF,10,-0.172570209112075,0.14140395811118,10,0
+primary_tumor,hypoxia,Hypoxia,10,-0.15237546926023,0.0861309841249186,9,1
+primary_tumor,b_cell,B cell,10,-0.151773700035099,0.133263909905068,10,0
+primary_tumor,t_cell,T cell,10,-0.0870219846547139,0.0873035717394548,8,2
+primary_tumor,basal_like,Basal-like tumor,10,-0.0776826342052126,0.114930731153152,8,2
+primary_tumor,classical_like,Classical-like tumor,10,-0.0703259205608059,0.192062377330305,6,4
+primary_tumor,neural_schwann,Neural/Schwann,10,-0.0548893617615293,0.0728607457094658,7,3
+primary_tumor,plasma_cell,Plasma cell,10,0.0541670669299911,0.339607452514697,4,6

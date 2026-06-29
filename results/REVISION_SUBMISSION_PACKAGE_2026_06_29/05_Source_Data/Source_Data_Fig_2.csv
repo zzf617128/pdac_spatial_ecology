@@ -1,0 +1,53 @@
+figure,panel,source_file,metric,group,n_samples,value,support,core_label
+Figure 2,A,gse272362_rds_spot_level_scores.csv,site sample and spot counts,liver_metastasis,12,28520,,
+Figure 2,A,gse272362_rds_spot_level_scores.csv,site sample and spot counts,lymph_node_metastasis,5,17698,,
+Figure 2,A,gse272362_rds_spot_level_scores.csv,site sample and spot counts,normal_pancreas,3,9820,,
+Figure 2,A,gse272362_rds_spot_level_scores.csv,site sample and spot counts,primary_tumor,10,35458,,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,ifn_mhc delta_vs_null,liver_metastasis,12,-0.385136559231872,12/12,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,immune_core delta_vs_null,liver_metastasis,12,-0.331670396380812,12/12,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,immune_maturity delta_vs_null,liver_metastasis,12,-0.353943808072102,12/12,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,tumor_aggressive delta_vs_null,liver_metastasis,12,-0.30605285491395,11/12,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,ifn_mhc delta_vs_null,lymph_node_metastasis,5,0.00585800024977116,2/5,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,immune_core delta_vs_null,lymph_node_metastasis,5,0.232690395463584,2/5,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,immune_maturity delta_vs_null,lymph_node_metastasis,5,-0.13674725930233,3/5,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,tumor_aggressive delta_vs_null,lymph_node_metastasis,5,-0.395404540835516,5/5,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,ifn_mhc delta_vs_null,primary_tumor,10,-0.275975072010544,9/10,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,immune_core delta_vs_null,primary_tumor,10,-0.188417371515894,9/10,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,immune_maturity delta_vs_null,primary_tumor,10,-0.15465718308029,8/10,
+Figure 2,B,gse272362_rds_random_core_permutation_summary.csv,tumor_aggressive delta_vs_null,primary_tumor,10,-0.268340790017487,10/10,
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,liver_metastasis,12,-0.386427498225898,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,liver_metastasis,12,-0.38004456682568,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,liver_metastasis,12,-0.319031261127489,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,liver_metastasis,12,-0.342295479921822,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,liver_metastasis,12,-0.326892701454118,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,liver_metastasis,12,-0.283197638193123,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,liver_metastasis,12,-0.371622984767514,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,liver_metastasis,12,-0.351900339430078,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,liver_metastasis,12,-0.344314789790694,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,liver_metastasis,12,-0.312948047869822,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,liver_metastasis,12,-0.304836207256358,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,liver_metastasis,12,-0.29637668898458,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,lymph_node_metastasis,5,0.0151491444241769,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,lymph_node_metastasis,5,0.0137889957894828,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,lymph_node_metastasis,5,-0.0261979228407503,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,lymph_node_metastasis,5,0.249254643935875,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,lymph_node_metastasis,5,0.231580584716767,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,lymph_node_metastasis,5,0.196128817910564,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,lymph_node_metastasis,5,-0.132367815193401,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,lymph_node_metastasis,5,-0.14702253207516,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,lymph_node_metastasis,5,-0.0427150549478687,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,lymph_node_metastasis,5,-0.438156191581389,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,lymph_node_metastasis,5,-0.399482776547609,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,lymph_node_metastasis,5,-0.340354867718432,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,primary_tumor,10,-0.307749527586303,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,primary_tumor,10,-0.292729270681862,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,ifn_mhc median_rho,primary_tumor,10,-0.256228634494638,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,primary_tumor,10,-0.230268646749139,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,primary_tumor,10,-0.201424627392588,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_core median_rho,primary_tumor,10,-0.172393055977175,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,primary_tumor,10,-0.188242928640559,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,primary_tumor,10,-0.16848070679445,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,immune_maturity median_rho,primary_tumor,10,-0.161042614079198,,top_5
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,primary_tumor,10,-0.290952438514616,,top_15
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,primary_tumor,10,-0.28248214804208,,top_10
+Figure 2,C,caf_core_threshold_sensitivity_summary.csv,tumor_aggressive median_rho,primary_tumor,10,-0.276263415853275,,top_5

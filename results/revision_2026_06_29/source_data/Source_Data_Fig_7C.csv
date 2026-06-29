@@ -1,0 +1,25 @@
+axis_id,axis_label,metric,rho_with_immune_decoupling_index,n_samples
+b_plasma_lymphoid,B/plasma lymphoid,core_enrichment,-0.6391306280279123,150
+b_plasma_lymphoid,B/plasma lymphoid,interface_enrichment,-0.33249773263196086,149
+b_plasma_lymphoid,B/plasma lymphoid,rho_distance_to_caf_core,0.5250562247210988,150
+basal_hypoxic_tumor,Basal-hypoxic tumor,core_enrichment,0.2650517800791147,150
+basal_hypoxic_tumor,Basal-hypoxic tumor,interface_enrichment,0.19669508434609106,149
+basal_hypoxic_tumor,Basal-hypoxic tumor,rho_distance_to_caf_core,-0.17562202764567314,150
+classical_epithelial,Classical epithelial,core_enrichment,0.13052135650473357,150
+classical_epithelial,Classical epithelial,interface_enrichment,0.23326682387085074,149
+classical_epithelial,Classical epithelial,rho_distance_to_caf_core,-0.12459753766834081,150
+icaf_cytokine_chemokine,iCAF cytokine/chemokine,core_enrichment,-0.38160451575625587,150
+icaf_cytokine_chemokine,iCAF cytokine/chemokine,interface_enrichment,-0.1892254670778161,149
+icaf_cytokine_chemokine,iCAF cytokine/chemokine,rho_distance_to_caf_core,0.3644730876927864,150
+ifn_apc_antigen,IFN/APC antigen,core_enrichment,-0.6619263078359039,150
+ifn_apc_antigen,IFN/APC antigen,interface_enrichment,-0.3493705786323236,149
+ifn_apc_antigen,IFN/APC antigen,rho_distance_to_caf_core,0.5215218454153518,150
+spp1_tam_matrix,SPP1-TAM/matrix,core_enrichment,0.08430774701097826,150
+spp1_tam_matrix,SPP1-TAM/matrix,interface_enrichment,0.14395428986033013,149
+spp1_tam_matrix,SPP1-TAM/matrix,rho_distance_to_caf_core,-0.0677772345437575,150
+t_cell_checkpoint,T cell/checkpoint,core_enrichment,-0.6012729454642428,150
+t_cell_checkpoint,T cell/checkpoint,interface_enrichment,-0.4326609831307818,149
+t_cell_checkpoint,T cell/checkpoint,rho_distance_to_caf_core,0.49690208453709056,150
+tgfb_emt_invasive,TGF-beta/EMT invasive,core_enrichment,0.462408107026979,150
+tgfb_emt_invasive,TGF-beta/EMT invasive,interface_enrichment,0.2976782151278796,149
+tgfb_emt_invasive,TGF-beta/EMT invasive,rho_distance_to_caf_core,-0.35094715320680925,150

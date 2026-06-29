@@ -1,0 +1,57 @@
+target,target_label,feature,feature_label,n_samples,median_rho,mean_abs_rho,n_positive,n_negative,fraction_same_sign_as_median
+score_caf_myeloid_barrier,CAF-myeloid,mean_blue_minus_red,blue-red,113,-0.27873218954545737,0.32275761172212736,19,94,0.831858407079646
+score_caf_myeloid_barrier,CAF-myeloid,mean_edge,edge density,113,-0.14175334296863876,0.21103240169038973,31,82,0.7256637168141593
+score_caf_myeloid_barrier,CAF-myeloid,mean_gray,brightness,113,0.33061665202960216,0.3557060546003154,106,7,0.9380530973451328
+score_caf_myeloid_barrier,CAF-myeloid,mean_od_blue,blue OD,113,-0.3402430257152225,0.3550645734835504,6,107,0.9469026548672567
+score_caf_myeloid_barrier,CAF-myeloid,mean_od_green,green OD,113,-0.3126900072050712,0.3369065057192874,7,106,0.9380530973451328
+score_caf_myeloid_barrier,CAF-myeloid,mean_od_red,red OD,113,-0.38171113782608573,0.3864857163899174,6,107,0.9469026548672567
+score_caf_myeloid_barrier,CAF-myeloid,mean_od_sum,stain density,113,-0.3581891142470478,0.3668156758911854,6,107,0.9469026548672567
+score_caf_myeloid_barrier,CAF-myeloid,mean_red_minus_blue,red-blue,113,0.27873218954545737,0.32275761172212736,94,19,0.831858407079646
+score_caf_myeloid_barrier,CAF-myeloid,mean_saturation,saturation,113,-0.21572916109846269,0.257241001250505,14,99,0.8761061946902655
+score_caf_myeloid_barrier,CAF-myeloid,pink_fraction,pink fraction,113,0.13885472154878578,0.19900293022236873,91,22,0.8053097345132744
+score_caf_myeloid_barrier,CAF-myeloid,purple_fraction,purple fraction,113,-0.19618448707933772,0.24579691086925318,17,96,0.8495575221238938
+score_caf_myeloid_barrier,CAF-myeloid,std_gray,gray texture,113,-0.17760262546115368,0.2317152398880984,25,88,0.7787610619469026
+score_caf_myeloid_barrier,CAF-myeloid,tissue_fraction,tissue fraction,102,0.013520328097502084,0.11670696405693604,63,39,0.6176470588235294
+score_caf_myeloid_barrier,CAF-myeloid,white_fraction,white/background,97,-0.009038082724942803,0.08917573948756531,42,55,0.5670103092783505
+score_immune_hub_core,immune core,mean_blue_minus_red,blue-red,113,-0.01789750473018035,0.20108504142098632,49,64,0.5663716814159292
+score_immune_hub_core,immune core,mean_edge,edge density,113,0.09380754693461424,0.15621560092485506,81,32,0.7168141592920354
+score_immune_hub_core,immune core,mean_gray,brightness,113,0.05957907394384819,0.20553207600777706,69,44,0.6106194690265486
+score_immune_hub_core,immune core,mean_od_blue,blue OD,113,-0.05353975032118358,0.20223830972600473,43,70,0.6194690265486725
+score_immune_hub_core,immune core,mean_od_green,green OD,113,-0.07304365104055473,0.2068977470409683,39,74,0.6548672566371682
+score_immune_hub_core,immune core,mean_od_red,red OD,113,-0.025504032026710283,0.2092672377526225,48,65,0.5752212389380531
+score_immune_hub_core,immune core,mean_od_sum,stain density,113,-0.06767423922013938,0.20888620948857878,44,69,0.6106194690265486
+score_immune_hub_core,immune core,mean_red_minus_blue,red-blue,113,0.01789750473018035,0.20108504142098632,64,49,0.5663716814159292
+score_immune_hub_core,immune core,mean_saturation,saturation,113,-0.11663166469862603,0.20059555859795047,34,79,0.6991150442477876
+score_immune_hub_core,immune core,pink_fraction,pink fraction,113,0.011805807144969432,0.1422394516154022,60,53,0.5309734513274337
+score_immune_hub_core,immune core,purple_fraction,purple fraction,113,-0.008659678908995,0.15655964940847245,54,59,0.5221238938053098
+score_immune_hub_core,immune core,std_gray,gray texture,113,0.03308911242650318,0.1403842799021745,65,48,0.5752212389380531
+score_immune_hub_core,immune core,tissue_fraction,tissue fraction,102,0.0018146688925843434,0.10353077135075686,52,50,0.5098039215686274
+score_immune_hub_core,immune core,white_fraction,white/background,97,-0.023884223085388245,0.09054664575084048,40,57,0.5876288659793815
+score_tumor_aggressive,tumor aggressive,mean_blue_minus_red,blue-red,113,-0.05631197325637944,0.2271702558592201,48,65,0.5752212389380531
+score_tumor_aggressive,tumor aggressive,mean_edge,edge density,113,-0.0012198930020005728,0.14720761163483756,56,57,0.504424778761062
+score_tumor_aggressive,tumor aggressive,mean_gray,brightness,113,0.13048006307425386,0.24254569489790567,85,28,0.7522123893805309
+score_tumor_aggressive,tumor aggressive,mean_od_blue,blue OD,113,-0.13649545278523184,0.24450821897867464,27,86,0.7610619469026548
+score_tumor_aggressive,tumor aggressive,mean_od_green,green OD,113,-0.12836313963998086,0.23941469887790695,29,84,0.7433628318584071
+score_tumor_aggressive,tumor aggressive,mean_od_red,red OD,113,-0.11252305961911685,0.24824647284653129,36,77,0.6814159292035398
+score_tumor_aggressive,tumor aggressive,mean_od_sum,stain density,113,-0.11875027501181885,0.24460783584452514,29,84,0.7433628318584071
+score_tumor_aggressive,tumor aggressive,mean_red_minus_blue,red-blue,113,0.05631197325637944,0.2271702558592201,65,48,0.5752212389380531
+score_tumor_aggressive,tumor aggressive,mean_saturation,saturation,113,-0.14742783212249927,0.22061925157122028,34,79,0.6991150442477876
+score_tumor_aggressive,tumor aggressive,pink_fraction,pink fraction,113,-0.013743445641690999,0.15711824144614098,52,61,0.5398230088495575
+score_tumor_aggressive,tumor aggressive,purple_fraction,purple fraction,113,-0.05716281626814144,0.17373210346587226,39,74,0.6548672566371682
+score_tumor_aggressive,tumor aggressive,std_gray,gray texture,113,0.025665081011773127,0.13569280785412374,64,49,0.5663716814159292
+score_tumor_aggressive,tumor aggressive,tissue_fraction,tissue fraction,102,-0.11348960134158356,0.13867344110693197,25,77,0.7549019607843137
+score_tumor_aggressive,tumor aggressive,white_fraction,white/background,97,0.07138300036990393,0.11082436600961487,73,24,0.7525773195876289
+z_ifn_antigen_presentation,IFN/MHC,mean_blue_minus_red,blue-red,113,-0.015260747037160764,0.19615482380294064,52,61,0.5398230088495575
+z_ifn_antigen_presentation,IFN/MHC,mean_edge,edge density,113,0.07162113809960326,0.138994690444958,83,30,0.7345132743362832
+z_ifn_antigen_presentation,IFN/MHC,mean_gray,brightness,113,0.07203404765582211,0.19768744101935828,71,42,0.6283185840707964
+z_ifn_antigen_presentation,IFN/MHC,mean_od_blue,blue OD,113,-0.07399278343088132,0.19840885228335922,38,75,0.6637168141592921
+z_ifn_antigen_presentation,IFN/MHC,mean_od_green,green OD,113,-0.11424619776001481,0.20524713228005817,38,75,0.6637168141592921
+z_ifn_antigen_presentation,IFN/MHC,mean_od_red,red OD,113,-0.04420448388453677,0.20736163126101048,44,69,0.6106194690265486
+z_ifn_antigen_presentation,IFN/MHC,mean_od_sum,stain density,113,-0.08721437633743603,0.20187328646622718,37,76,0.672566371681416
+z_ifn_antigen_presentation,IFN/MHC,mean_red_minus_blue,red-blue,113,0.015260747037160764,0.19615482380294064,61,52,0.5398230088495575
+z_ifn_antigen_presentation,IFN/MHC,mean_saturation,saturation,113,-0.11945015908564895,0.19831033988963878,33,80,0.7079646017699115
+z_ifn_antigen_presentation,IFN/MHC,pink_fraction,pink fraction,113,0.005390725625361106,0.12969057123376213,63,50,0.5575221238938053
+z_ifn_antigen_presentation,IFN/MHC,purple_fraction,purple fraction,113,0.0020339209266967335,0.15284326606955487,58,55,0.5132743362831859
+z_ifn_antigen_presentation,IFN/MHC,std_gray,gray texture,113,0.01613915841475233,0.12748558065882276,64,49,0.5663716814159292
+z_ifn_antigen_presentation,IFN/MHC,tissue_fraction,tissue fraction,102,-0.010200019534775515,0.10037002765987349,46,56,0.5490196078431373
+z_ifn_antigen_presentation,IFN/MHC,white_fraction,white/background,97,-0.0053312323580356254,0.08038094420004993,44,53,0.5463917525773195

@@ -1,0 +1,44 @@
+name: pdac_spatial_ecology
+channels:
+  - conda-forge
+  - bioconda
+  - pytorch
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - scanpy
+  - anndata
+  - squidpy
+  - h5py
+  - tifffile
+  - pillow
+  - pyyaml
+  - tqdm
+  - requests
+  - beautifulsoup4
+  - lxml
+  - joblib
+  - networkx
+  - umap-learn
+  - leidenalg
+  - python-igraph
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+      - GEOparse
+      - spatialdata
+      - spatialdata-io
+      - timm
+      - lifelines
+      - scikit-image
+      - pingouin
+      - adjustText
+

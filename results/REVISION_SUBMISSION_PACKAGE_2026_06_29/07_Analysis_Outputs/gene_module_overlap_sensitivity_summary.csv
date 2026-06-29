@@ -1,0 +1,7 @@
+core_module,target_module,target_program,sensitivity_mode,target_removed_status,n_samples,shared_genes_n,target_genes_n,remaining_target_genes_n,jaccard_index,percent_target_shared_with_core,median_overlap_sensitive_delta,support_n,support_fraction,median_empirical_p,shared_gene_symbols
+CAF-myeloid,IFN/MHC antigen-presentation,IFN/MHC,no_shared_genes_original_core,target_score_unchanged_no_overlap,205,0,9,9,0.0,0.0,-0.28511200133081277,184,0.8975609756097561,0.000999000999000999,
+CAF-myeloid,SPP1/TAM,SPP1/TAM,core_excluding_spp1_tam_component,target_empty_after_overlap_removal,205,6,6,0,0.24,1.0,-0.2367002211934545,187,0.9121951219512195,0.000999000999000999,APOE;CCL18;CTSB;LGALS3;SPP1;TREM2
+CAF-myeloid,TGF-beta/EMT,TGF-beta/EMT,no_shared_genes_original_core,target_score_unchanged_no_overlap,205,0,13,13,0.0,0.0,-0.4782412947673696,203,0.9902439024390244,0.000999000999000999,
+CAF-myeloid,immune-core,immune-core,no_shared_genes_original_core,target_score_unchanged_no_overlap,205,0,32,32,0.0,0.0,-0.2609357909870245,177,0.8634146341463415,0.000999000999000999,
+CAF-myeloid,myCAF/matrix,myCAF/matrix,core_excluding_caf_matrix_component,target_empty_after_overlap_removal,205,11,11,0,0.44,1.0,-0.2529016301896262,174,0.848780487804878,0.000999000999000999,ACTA2;COL1A1;COL1A2;COL3A1;DCN;FAP;LUM;MYL9;PDPN;TAGLN;THY1
+CAF-myeloid,tumor-aggressive,tumor-aggressive,no_shared_genes_original_core,target_score_unchanged_no_overlap,205,0,20,20,0.0,0.0,-0.27685631472126704,175,0.8536585365853658,0.000999000999000999,

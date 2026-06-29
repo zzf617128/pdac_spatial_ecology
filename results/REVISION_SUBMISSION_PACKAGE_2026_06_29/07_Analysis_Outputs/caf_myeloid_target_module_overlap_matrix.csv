@@ -1,0 +1,7 @@
+module_a,module_b,module_a_genes_n,module_b_genes_n,shared_genes_n,jaccard_index,percent_module_b_shared,shared_gene_symbols
+CAF-myeloid,IFN/MHC antigen-presentation,25,9,0,0.0,0.0,
+CAF-myeloid,SPP1/TAM,25,6,6,0.24,1.0,APOE;CCL18;CTSB;LGALS3;SPP1;TREM2
+CAF-myeloid,TGF-beta/EMT,25,13,0,0.0,0.0,
+CAF-myeloid,immune-core,25,32,0,0.0,0.0,
+CAF-myeloid,myCAF/matrix,25,11,11,0.44,1.0,ACTA2;COL1A1;COL1A2;COL3A1;DCN;FAP;LUM;MYL9;PDPN;TAGLN;THY1
+CAF-myeloid,tumor-aggressive,25,20,0,0.0,0.0,

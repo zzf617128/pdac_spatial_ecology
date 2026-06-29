@@ -1,0 +1,8 @@
+panel,content
+A,CAF-core ecotype loading heatmap
+B,Context-to-CAF-core ecotype flow
+C,Ecotype composition by context
+D,Immune-decoupling index by dominant ecotype
+E,Candidate-axis CAF-core/interface enrichment
+F,Candidate-axis correlation with immune decoupling
+G-R,"Primary, liver-metastasis and lymph-node-metastasis interface spatial maps"

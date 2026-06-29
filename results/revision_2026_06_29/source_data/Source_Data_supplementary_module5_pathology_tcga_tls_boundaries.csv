@@ -1,0 +1,975 @@
+panel,item,metric,value
+A_he_cv,CAF-myeloid,fold,0.0
+A_he_cv,CAF-myeloid,permutation,-1.0
+A_he_cv,CAF-myeloid,n_train,289225.0
+A_he_cv,CAF-myeloid,n_test,289225.0
+A_he_cv,CAF-myeloid,spearman_rho,0.4214677724272491
+A_he_cv,CAF-myeloid,r2,0.1796440483476576
+A_he_cv,CAF-myeloid,null_median,-0.00245885301260945
+A_he_cv,CAF-myeloid,null_q05,-0.008767987071600885
+A_he_cv,CAF-myeloid,null_q95,0.0038464729801501955
+A_he_cv,tumor aggressive,fold,0.0
+A_he_cv,tumor aggressive,permutation,-1.0
+A_he_cv,tumor aggressive,n_train,289225.0
+A_he_cv,tumor aggressive,n_test,289225.0
+A_he_cv,tumor aggressive,spearman_rho,0.1883271196215866
+A_he_cv,tumor aggressive,r2,0.0392927908299763
+A_he_cv,tumor aggressive,null_median,-0.00268285804810925
+A_he_cv,tumor aggressive,null_q05,-0.009129495725603535
+A_he_cv,tumor aggressive,null_q95,0.00249639032487934
+A_he_cv,IFN/MHC,fold,0.0
+A_he_cv,IFN/MHC,permutation,-1.0
+A_he_cv,IFN/MHC,n_train,289225.0
+A_he_cv,IFN/MHC,n_test,289225.0
+A_he_cv,IFN/MHC,spearman_rho,0.1726455447289656
+A_he_cv,IFN/MHC,r2,0.0290859070745065
+A_he_cv,IFN/MHC,null_median,-0.00238477398358475
+A_he_cv,IFN/MHC,null_q05,-0.005689671612057441
+A_he_cv,IFN/MHC,null_q95,0.0023896636104149553
+A_he_cv,immune core,fold,0.0
+A_he_cv,immune core,permutation,-1.0
+A_he_cv,immune core,n_train,289225.0
+A_he_cv,immune core,n_test,289225.0
+A_he_cv,immune core,spearman_rho,0.1983975841121815
+A_he_cv,immune core,r2,0.0389597038655239
+A_he_cv,immune core,null_median,-0.00537720553476945
+A_he_cv,immune core,null_q05,-0.01161781710884389
+A_he_cv,immune core,null_q95,-0.0005110888614019893
+B_he_features,CAF-myeloid,feature,mean_edge
+B_he_features,CAF-myeloid,feature_label,edge density
+B_he_features,CAF-myeloid,n_samples,113.0
+B_he_features,CAF-myeloid,median_rho,-0.1417533429686387
+B_he_features,CAF-myeloid,mean_abs_rho,0.2110324016903897
+B_he_features,CAF-myeloid,n_positive,31.0
+B_he_features,CAF-myeloid,n_negative,82.0
+B_he_features,CAF-myeloid,fraction_same_sign_as_median,0.7256637168141593
+B_he_features,CAF-myeloid,feature,mean_gray
+B_he_features,CAF-myeloid,feature_label,brightness
+B_he_features,CAF-myeloid,n_samples,113.0
+B_he_features,CAF-myeloid,median_rho,0.3306166520296021
+B_he_features,CAF-myeloid,mean_abs_rho,0.3557060546003154
+B_he_features,CAF-myeloid,n_positive,106.0
+B_he_features,CAF-myeloid,n_negative,7.0
+B_he_features,CAF-myeloid,fraction_same_sign_as_median,0.9380530973451328
+B_he_features,CAF-myeloid,feature,mean_od_blue
+B_he_features,CAF-myeloid,feature_label,blue OD
+B_he_features,CAF-myeloid,n_samples,113.0
+B_he_features,CAF-myeloid,median_rho,-0.3402430257152225
+B_he_features,CAF-myeloid,mean_abs_rho,0.3550645734835504
+B_he_features,CAF-myeloid,n_positive,6.0
+B_he_features,CAF-myeloid,n_negative,107.0
+B_he_features,CAF-myeloid,fraction_same_sign_as_median,0.9469026548672568
+B_he_features,CAF-myeloid,feature,mean_od_green
+B_he_features,CAF-myeloid,feature_label,green OD
+B_he_features,CAF-myeloid,n_samples,113.0
+B_he_features,CAF-myeloid,median_rho,-0.3126900072050712
+B_he_features,CAF-myeloid,mean_abs_rho,0.3369065057192874
+B_he_features,CAF-myeloid,n_positive,7.0
+B_he_features,CAF-myeloid,n_negative,106.0
+B_he_features,CAF-myeloid,fraction_same_sign_as_median,0.9380530973451328
+B_he_features,CAF-myeloid,feature,mean_od_red
+B_he_features,CAF-myeloid,feature_label,red OD
+B_he_features,CAF-myeloid,n_samples,113.0
+B_he_features,CAF-myeloid,median_rho,-0.3817111378260857
+B_he_features,CAF-myeloid,mean_abs_rho,0.3864857163899174
+B_he_features,CAF-myeloid,n_positive,6.0
+B_he_features,CAF-myeloid,n_negative,107.0
+B_he_features,CAF-myeloid,fraction_same_sign_as_median,0.9469026548672568
+B_he_features,CAF-myeloid,feature,mean_od_sum
+B_he_features,CAF-myeloid,feature_label,stain density
+B_he_features,CAF-myeloid,n_samples,113.0
+B_he_features,CAF-myeloid,median_rho,-0.3581891142470478
+B_he_features,CAF-myeloid,mean_abs_rho,0.3668156758911854
+B_he_features,CAF-myeloid,n_positive,6.0
+B_he_features,CAF-myeloid,n_negative,107.0
+B_he_features,CAF-myeloid,fraction_same_sign_as_median,0.9469026548672568
+B_he_features,CAF-myeloid,feature,mean_red_minus_blue
+B_he_features,CAF-myeloid,feature_label,red-blue
+B_he_features,CAF-myeloid,n_samples,113.0
+B_he_features,CAF-myeloid,median_rho,0.2787321895454573
+B_he_features,CAF-myeloid,mean_abs_rho,0.3227576117221273
+B_he_features,CAF-myeloid,n_positive,94.0
+B_he_features,CAF-myeloid,n_negative,19.0
+B_he_features,CAF-myeloid,fraction_same_sign_as_median,0.831858407079646
+B_he_features,CAF-myeloid,feature,purple_fraction
+B_he_features,CAF-myeloid,feature_label,purple fraction
+B_he_features,CAF-myeloid,n_samples,113.0
+B_he_features,CAF-myeloid,median_rho,-0.1961844870793377
+B_he_features,CAF-myeloid,mean_abs_rho,0.2457969108692531
+B_he_features,CAF-myeloid,n_positive,17.0
+B_he_features,CAF-myeloid,n_negative,96.0
+B_he_features,CAF-myeloid,fraction_same_sign_as_median,0.8495575221238938
+B_he_features,immune core,feature,mean_edge
+B_he_features,immune core,feature_label,edge density
+B_he_features,immune core,n_samples,113.0
+B_he_features,immune core,median_rho,0.0938075469346142
+B_he_features,immune core,mean_abs_rho,0.156215600924855
+B_he_features,immune core,n_positive,81.0
+B_he_features,immune core,n_negative,32.0
+B_he_features,immune core,fraction_same_sign_as_median,0.7168141592920354
+B_he_features,immune core,feature,mean_gray
+B_he_features,immune core,feature_label,brightness
+B_he_features,immune core,n_samples,113.0
+B_he_features,immune core,median_rho,0.0595790739438481
+B_he_features,immune core,mean_abs_rho,0.205532076007777
+B_he_features,immune core,n_positive,69.0
+B_he_features,immune core,n_negative,44.0
+B_he_features,immune core,fraction_same_sign_as_median,0.6106194690265486
+B_he_features,immune core,feature,mean_od_blue
+B_he_features,immune core,feature_label,blue OD
+B_he_features,immune core,n_samples,113.0
+B_he_features,immune core,median_rho,-0.0535397503211835
+B_he_features,immune core,mean_abs_rho,0.2022383097260047
+B_he_features,immune core,n_positive,43.0
+B_he_features,immune core,n_negative,70.0
+B_he_features,immune core,fraction_same_sign_as_median,0.6194690265486725
+B_he_features,immune core,feature,mean_od_green
+B_he_features,immune core,feature_label,green OD
+B_he_features,immune core,n_samples,113.0
+B_he_features,immune core,median_rho,-0.0730436510405547
+B_he_features,immune core,mean_abs_rho,0.2068977470409683
+B_he_features,immune core,n_positive,39.0
+B_he_features,immune core,n_negative,74.0
+B_he_features,immune core,fraction_same_sign_as_median,0.6548672566371682
+B_he_features,immune core,feature,mean_od_red
+B_he_features,immune core,feature_label,red OD
+B_he_features,immune core,n_samples,113.0
+B_he_features,immune core,median_rho,-0.0255040320267102
+B_he_features,immune core,mean_abs_rho,0.2092672377526225
+B_he_features,immune core,n_positive,48.0
+B_he_features,immune core,n_negative,65.0
+B_he_features,immune core,fraction_same_sign_as_median,0.5752212389380531
+B_he_features,immune core,feature,mean_od_sum
+B_he_features,immune core,feature_label,stain density
+B_he_features,immune core,n_samples,113.0
+B_he_features,immune core,median_rho,-0.0676742392201393
+B_he_features,immune core,mean_abs_rho,0.2088862094885787
+B_he_features,immune core,n_positive,44.0
+B_he_features,immune core,n_negative,69.0
+B_he_features,immune core,fraction_same_sign_as_median,0.6106194690265486
+B_he_features,immune core,feature,mean_red_minus_blue
+B_he_features,immune core,feature_label,red-blue
+B_he_features,immune core,n_samples,113.0
+B_he_features,immune core,median_rho,0.0178975047301803
+B_he_features,immune core,mean_abs_rho,0.2010850414209863
+B_he_features,immune core,n_positive,64.0
+B_he_features,immune core,n_negative,49.0
+B_he_features,immune core,fraction_same_sign_as_median,0.5663716814159292
+B_he_features,immune core,feature,purple_fraction
+B_he_features,immune core,feature_label,purple fraction
+B_he_features,immune core,n_samples,113.0
+B_he_features,immune core,median_rho,-0.008659678908995
+B_he_features,immune core,mean_abs_rho,0.1565596494084724
+B_he_features,immune core,n_positive,54.0
+B_he_features,immune core,n_negative,59.0
+B_he_features,immune core,fraction_same_sign_as_median,0.5221238938053098
+B_he_features,tumor aggressive,feature,mean_edge
+B_he_features,tumor aggressive,feature_label,edge density
+B_he_features,tumor aggressive,n_samples,113.0
+B_he_features,tumor aggressive,median_rho,-0.0012198930020005
+B_he_features,tumor aggressive,mean_abs_rho,0.1472076116348375
+B_he_features,tumor aggressive,n_positive,56.0
+B_he_features,tumor aggressive,n_negative,57.0
+B_he_features,tumor aggressive,fraction_same_sign_as_median,0.504424778761062
+B_he_features,tumor aggressive,feature,mean_gray
+B_he_features,tumor aggressive,feature_label,brightness
+B_he_features,tumor aggressive,n_samples,113.0
+B_he_features,tumor aggressive,median_rho,0.1304800630742538
+B_he_features,tumor aggressive,mean_abs_rho,0.2425456948979056
+B_he_features,tumor aggressive,n_positive,85.0
+B_he_features,tumor aggressive,n_negative,28.0
+B_he_features,tumor aggressive,fraction_same_sign_as_median,0.7522123893805309
+B_he_features,tumor aggressive,feature,mean_od_blue
+B_he_features,tumor aggressive,feature_label,blue OD
+B_he_features,tumor aggressive,n_samples,113.0
+B_he_features,tumor aggressive,median_rho,-0.1364954527852318
+B_he_features,tumor aggressive,mean_abs_rho,0.2445082189786746
+B_he_features,tumor aggressive,n_positive,27.0
+B_he_features,tumor aggressive,n_negative,86.0
+B_he_features,tumor aggressive,fraction_same_sign_as_median,0.7610619469026548
+B_he_features,tumor aggressive,feature,mean_od_green
+B_he_features,tumor aggressive,feature_label,green OD
+B_he_features,tumor aggressive,n_samples,113.0
+B_he_features,tumor aggressive,median_rho,-0.1283631396399808
+B_he_features,tumor aggressive,mean_abs_rho,0.2394146988779069
+B_he_features,tumor aggressive,n_positive,29.0
+B_he_features,tumor aggressive,n_negative,84.0
+B_he_features,tumor aggressive,fraction_same_sign_as_median,0.7433628318584071
+B_he_features,tumor aggressive,feature,mean_od_red
+B_he_features,tumor aggressive,feature_label,red OD
+B_he_features,tumor aggressive,n_samples,113.0
+B_he_features,tumor aggressive,median_rho,-0.1125230596191168
+B_he_features,tumor aggressive,mean_abs_rho,0.2482464728465312
+B_he_features,tumor aggressive,n_positive,36.0
+B_he_features,tumor aggressive,n_negative,77.0
+B_he_features,tumor aggressive,fraction_same_sign_as_median,0.6814159292035398
+B_he_features,tumor aggressive,feature,mean_od_sum
+B_he_features,tumor aggressive,feature_label,stain density
+B_he_features,tumor aggressive,n_samples,113.0
+B_he_features,tumor aggressive,median_rho,-0.1187502750118188
+B_he_features,tumor aggressive,mean_abs_rho,0.2446078358445251
+B_he_features,tumor aggressive,n_positive,29.0
+B_he_features,tumor aggressive,n_negative,84.0
+B_he_features,tumor aggressive,fraction_same_sign_as_median,0.7433628318584071
+B_he_features,tumor aggressive,feature,mean_red_minus_blue
+B_he_features,tumor aggressive,feature_label,red-blue
+B_he_features,tumor aggressive,n_samples,113.0
+B_he_features,tumor aggressive,median_rho,0.0563119732563794
+B_he_features,tumor aggressive,mean_abs_rho,0.2271702558592201
+B_he_features,tumor aggressive,n_positive,65.0
+B_he_features,tumor aggressive,n_negative,48.0
+B_he_features,tumor aggressive,fraction_same_sign_as_median,0.5752212389380531
+B_he_features,tumor aggressive,feature,purple_fraction
+B_he_features,tumor aggressive,feature_label,purple fraction
+B_he_features,tumor aggressive,n_samples,113.0
+B_he_features,tumor aggressive,median_rho,-0.0571628162681414
+B_he_features,tumor aggressive,mean_abs_rho,0.1737321034658722
+B_he_features,tumor aggressive,n_positive,39.0
+B_he_features,tumor aggressive,n_negative,74.0
+B_he_features,tumor aggressive,fraction_same_sign_as_median,0.6548672566371682
+B_he_features,IFN/MHC,feature,mean_edge
+B_he_features,IFN/MHC,feature_label,edge density
+B_he_features,IFN/MHC,n_samples,113.0
+B_he_features,IFN/MHC,median_rho,0.0716211380996032
+B_he_features,IFN/MHC,mean_abs_rho,0.138994690444958
+B_he_features,IFN/MHC,n_positive,83.0
+B_he_features,IFN/MHC,n_negative,30.0
+B_he_features,IFN/MHC,fraction_same_sign_as_median,0.7345132743362832
+B_he_features,IFN/MHC,feature,mean_gray
+B_he_features,IFN/MHC,feature_label,brightness
+B_he_features,IFN/MHC,n_samples,113.0
+B_he_features,IFN/MHC,median_rho,0.0720340476558221
+B_he_features,IFN/MHC,mean_abs_rho,0.1976874410193582
+B_he_features,IFN/MHC,n_positive,71.0
+B_he_features,IFN/MHC,n_negative,42.0
+B_he_features,IFN/MHC,fraction_same_sign_as_median,0.6283185840707964
+B_he_features,IFN/MHC,feature,mean_od_blue
+B_he_features,IFN/MHC,feature_label,blue OD
+B_he_features,IFN/MHC,n_samples,113.0
+B_he_features,IFN/MHC,median_rho,-0.0739927834308813
+B_he_features,IFN/MHC,mean_abs_rho,0.1984088522833592
+B_he_features,IFN/MHC,n_positive,38.0
+B_he_features,IFN/MHC,n_negative,75.0
+B_he_features,IFN/MHC,fraction_same_sign_as_median,0.6637168141592921
+B_he_features,IFN/MHC,feature,mean_od_green
+B_he_features,IFN/MHC,feature_label,green OD
+B_he_features,IFN/MHC,n_samples,113.0
+B_he_features,IFN/MHC,median_rho,-0.1142461977600148
+B_he_features,IFN/MHC,mean_abs_rho,0.2052471322800581
+B_he_features,IFN/MHC,n_positive,38.0
+B_he_features,IFN/MHC,n_negative,75.0
+B_he_features,IFN/MHC,fraction_same_sign_as_median,0.6637168141592921
+B_he_features,IFN/MHC,feature,mean_od_red
+B_he_features,IFN/MHC,feature_label,red OD
+B_he_features,IFN/MHC,n_samples,113.0
+B_he_features,IFN/MHC,median_rho,-0.0442044838845367
+B_he_features,IFN/MHC,mean_abs_rho,0.2073616312610104
+B_he_features,IFN/MHC,n_positive,44.0
+B_he_features,IFN/MHC,n_negative,69.0
+B_he_features,IFN/MHC,fraction_same_sign_as_median,0.6106194690265486
+B_he_features,IFN/MHC,feature,mean_od_sum
+B_he_features,IFN/MHC,feature_label,stain density
+B_he_features,IFN/MHC,n_samples,113.0
+B_he_features,IFN/MHC,median_rho,-0.087214376337436
+B_he_features,IFN/MHC,mean_abs_rho,0.2018732864662271
+B_he_features,IFN/MHC,n_positive,37.0
+B_he_features,IFN/MHC,n_negative,76.0
+B_he_features,IFN/MHC,fraction_same_sign_as_median,0.672566371681416
+B_he_features,IFN/MHC,feature,mean_red_minus_blue
+B_he_features,IFN/MHC,feature_label,red-blue
+B_he_features,IFN/MHC,n_samples,113.0
+B_he_features,IFN/MHC,median_rho,0.0152607470371607
+B_he_features,IFN/MHC,mean_abs_rho,0.1961548238029406
+B_he_features,IFN/MHC,n_positive,61.0
+B_he_features,IFN/MHC,n_negative,52.0
+B_he_features,IFN/MHC,fraction_same_sign_as_median,0.5398230088495575
+B_he_features,IFN/MHC,feature,purple_fraction
+B_he_features,IFN/MHC,feature_label,purple fraction
+B_he_features,IFN/MHC,n_samples,113.0
+B_he_features,IFN/MHC,median_rho,0.0020339209266967
+B_he_features,IFN/MHC,mean_abs_rho,0.1528432660695548
+B_he_features,IFN/MHC,n_positive,58.0
+B_he_features,IFN/MHC,n_negative,55.0
+B_he_features,IFN/MHC,fraction_same_sign_as_median,0.5132743362831859
+C_tcga_bulk_context,myCAF_matrix,axis_x,myCAF_matrix
+C_tcga_bulk_context,myCAF_matrix,axis_y,myCAF_matrix
+C_tcga_bulk_context,myCAF_matrix,n_samples,178.0
+C_tcga_bulk_context,myCAF_matrix,spearman_rho,1.0
+C_tcga_bulk_context,myCAF_matrix,p_value,0.0
+C_tcga_bulk_context,myCAF_matrix,axis_x,myCAF_matrix
+C_tcga_bulk_context,myCAF_matrix,axis_y,SPP1_TAM
+C_tcga_bulk_context,myCAF_matrix,n_samples,178.0
+C_tcga_bulk_context,myCAF_matrix,spearman_rho,0.5219958103218435
+C_tcga_bulk_context,myCAF_matrix,p_value,7.888323632702418e-14
+C_tcga_bulk_context,myCAF_matrix,axis_x,myCAF_matrix
+C_tcga_bulk_context,myCAF_matrix,axis_y,TGFb_EMT
+C_tcga_bulk_context,myCAF_matrix,n_samples,178.0
+C_tcga_bulk_context,myCAF_matrix,spearman_rho,0.8747011742376287
+C_tcga_bulk_context,myCAF_matrix,p_value,2.9738415718231645e-57
+C_tcga_bulk_context,myCAF_matrix,axis_x,myCAF_matrix
+C_tcga_bulk_context,myCAF_matrix,axis_y,matrix_integrin
+C_tcga_bulk_context,myCAF_matrix,n_samples,178.0
+C_tcga_bulk_context,myCAF_matrix,spearman_rho,0.9413679118316384
+C_tcga_bulk_context,myCAF_matrix,p_value,5.674099971502333e-85
+C_tcga_bulk_context,myCAF_matrix,axis_x,myCAF_matrix
+C_tcga_bulk_context,myCAF_matrix,axis_y,DC_APC
+C_tcga_bulk_context,myCAF_matrix,n_samples,178.0
+C_tcga_bulk_context,myCAF_matrix,spearman_rho,0.362545468859882
+C_tcga_bulk_context,myCAF_matrix,p_value,6.588169334816161e-07
+C_tcga_bulk_context,myCAF_matrix,axis_x,myCAF_matrix
+C_tcga_bulk_context,myCAF_matrix,axis_y,T_NK
+C_tcga_bulk_context,myCAF_matrix,n_samples,178.0
+C_tcga_bulk_context,myCAF_matrix,spearman_rho,0.3655712293162569
+C_tcga_bulk_context,myCAF_matrix,p_value,5.228220209245156e-07
+C_tcga_bulk_context,myCAF_matrix,axis_x,myCAF_matrix
+C_tcga_bulk_context,myCAF_matrix,axis_y,B_plasma
+C_tcga_bulk_context,myCAF_matrix,n_samples,178.0
+C_tcga_bulk_context,myCAF_matrix,spearman_rho,0.2805818311808658
+C_tcga_bulk_context,myCAF_matrix,p_value,0.0001485119195223
+C_tcga_bulk_context,myCAF_matrix,axis_x,myCAF_matrix
+C_tcga_bulk_context,myCAF_matrix,axis_y,bulk_decoupling_like_index
+C_tcga_bulk_context,myCAF_matrix,n_samples,178.0
+C_tcga_bulk_context,myCAF_matrix,spearman_rho,0.4811225103172687
+C_tcga_bulk_context,myCAF_matrix,p_value,1.0623440099610542e-11
+C_tcga_bulk_context,SPP1_TAM,axis_x,SPP1_TAM
+C_tcga_bulk_context,SPP1_TAM,axis_y,myCAF_matrix
+C_tcga_bulk_context,SPP1_TAM,n_samples,178.0
+C_tcga_bulk_context,SPP1_TAM,spearman_rho,0.5219958103218435
+C_tcga_bulk_context,SPP1_TAM,p_value,7.888323632702418e-14
+C_tcga_bulk_context,SPP1_TAM,axis_x,SPP1_TAM
+C_tcga_bulk_context,SPP1_TAM,axis_y,SPP1_TAM
+C_tcga_bulk_context,SPP1_TAM,n_samples,178.0
+C_tcga_bulk_context,SPP1_TAM,spearman_rho,1.0
+C_tcga_bulk_context,SPP1_TAM,p_value,0.0
+C_tcga_bulk_context,SPP1_TAM,axis_x,SPP1_TAM
+C_tcga_bulk_context,SPP1_TAM,axis_y,TGFb_EMT
+C_tcga_bulk_context,SPP1_TAM,n_samples,178.0
+C_tcga_bulk_context,SPP1_TAM,spearman_rho,0.515237853071881
+C_tcga_bulk_context,SPP1_TAM,p_value,1.8573191668025138e-13
+C_tcga_bulk_context,SPP1_TAM,axis_x,SPP1_TAM
+C_tcga_bulk_context,SPP1_TAM,axis_y,matrix_integrin
+C_tcga_bulk_context,SPP1_TAM,n_samples,178.0
+C_tcga_bulk_context,SPP1_TAM,spearman_rho,0.4517053947691793
+C_tcga_bulk_context,SPP1_TAM,p_value,2.4728485370533016e-10
+C_tcga_bulk_context,SPP1_TAM,axis_x,SPP1_TAM
+C_tcga_bulk_context,SPP1_TAM,axis_y,DC_APC
+C_tcga_bulk_context,SPP1_TAM,n_samples,178.0
+C_tcga_bulk_context,SPP1_TAM,spearman_rho,0.732641508028798
+C_tcga_bulk_context,SPP1_TAM,p_value,3.1785690561290388e-31
+C_tcga_bulk_context,SPP1_TAM,axis_x,SPP1_TAM
+C_tcga_bulk_context,SPP1_TAM,axis_y,T_NK
+C_tcga_bulk_context,SPP1_TAM,n_samples,178.0
+C_tcga_bulk_context,SPP1_TAM,spearman_rho,0.6542100520358453
+C_tcga_bulk_context,SPP1_TAM,p_value,4.0842547119462674e-23
+C_tcga_bulk_context,SPP1_TAM,axis_x,SPP1_TAM
+C_tcga_bulk_context,SPP1_TAM,axis_y,B_plasma
+C_tcga_bulk_context,SPP1_TAM,n_samples,178.0
+C_tcga_bulk_context,SPP1_TAM,spearman_rho,0.3393500998479672
+C_tcga_bulk_context,SPP1_TAM,p_value,3.5892769109097904e-06
+C_tcga_bulk_context,SPP1_TAM,axis_x,SPP1_TAM
+C_tcga_bulk_context,SPP1_TAM,axis_y,bulk_decoupling_like_index
+C_tcga_bulk_context,SPP1_TAM,n_samples,178.0
+C_tcga_bulk_context,SPP1_TAM,spearman_rho,0.0631696649427776
+C_tcga_bulk_context,SPP1_TAM,p_value,0.4022060609536876
+C_tcga_bulk_context,TGFb_EMT,axis_x,TGFb_EMT
+C_tcga_bulk_context,TGFb_EMT,axis_y,myCAF_matrix
+C_tcga_bulk_context,TGFb_EMT,n_samples,178.0
+C_tcga_bulk_context,TGFb_EMT,spearman_rho,0.8747011742376287
+C_tcga_bulk_context,TGFb_EMT,p_value,2.9738415718231645e-57
+C_tcga_bulk_context,TGFb_EMT,axis_x,TGFb_EMT
+C_tcga_bulk_context,TGFb_EMT,axis_y,SPP1_TAM
+C_tcga_bulk_context,TGFb_EMT,n_samples,178.0
+C_tcga_bulk_context,TGFb_EMT,spearman_rho,0.515237853071881
+C_tcga_bulk_context,TGFb_EMT,p_value,1.8573191668025138e-13
+C_tcga_bulk_context,TGFb_EMT,axis_x,TGFb_EMT
+C_tcga_bulk_context,TGFb_EMT,axis_y,TGFb_EMT
+C_tcga_bulk_context,TGFb_EMT,n_samples,178.0
+C_tcga_bulk_context,TGFb_EMT,spearman_rho,1.0
+C_tcga_bulk_context,TGFb_EMT,p_value,0.0
+C_tcga_bulk_context,TGFb_EMT,axis_x,TGFb_EMT
+C_tcga_bulk_context,TGFb_EMT,axis_y,matrix_integrin
+C_tcga_bulk_context,TGFb_EMT,n_samples,178.0
+C_tcga_bulk_context,TGFb_EMT,spearman_rho,0.8959283094786947
+C_tcga_bulk_context,TGFb_EMT,p_value,6.299319924684979e-64
+C_tcga_bulk_context,TGFb_EMT,axis_x,TGFb_EMT
+C_tcga_bulk_context,TGFb_EMT,axis_y,DC_APC
+C_tcga_bulk_context,TGFb_EMT,n_samples,178.0
+C_tcga_bulk_context,TGFb_EMT,spearman_rho,0.3258001402233573
+C_tcga_bulk_context,TGFb_EMT,p_value,9.089088772187584e-06
+C_tcga_bulk_context,TGFb_EMT,axis_x,TGFb_EMT
+C_tcga_bulk_context,TGFb_EMT,axis_y,T_NK
+C_tcga_bulk_context,TGFb_EMT,n_samples,178.0
+C_tcga_bulk_context,TGFb_EMT,spearman_rho,0.3631561532839182
+C_tcga_bulk_context,TGFb_EMT,p_value,6.289003120299859e-07
+C_tcga_bulk_context,TGFb_EMT,axis_x,TGFb_EMT
+C_tcga_bulk_context,TGFb_EMT,axis_y,B_plasma
+C_tcga_bulk_context,TGFb_EMT,n_samples,178.0
+C_tcga_bulk_context,TGFb_EMT,spearman_rho,0.2387680346068692
+C_tcga_bulk_context,TGFb_EMT,p_value,0.0013288626893025
+C_tcga_bulk_context,TGFb_EMT,axis_x,TGFb_EMT
+C_tcga_bulk_context,TGFb_EMT,axis_y,bulk_decoupling_like_index
+C_tcga_bulk_context,TGFb_EMT,n_samples,178.0
+C_tcga_bulk_context,TGFb_EMT,spearman_rho,0.4941277479469194
+C_tcga_bulk_context,TGFb_EMT,p_value,2.394364567645327e-12
+C_tcga_bulk_context,matrix_integrin,axis_x,matrix_integrin
+C_tcga_bulk_context,matrix_integrin,axis_y,myCAF_matrix
+C_tcga_bulk_context,matrix_integrin,n_samples,178.0
+C_tcga_bulk_context,matrix_integrin,spearman_rho,0.9413679118316384
+C_tcga_bulk_context,matrix_integrin,p_value,5.674099971502333e-85
+C_tcga_bulk_context,matrix_integrin,axis_x,matrix_integrin
+C_tcga_bulk_context,matrix_integrin,axis_y,SPP1_TAM
+C_tcga_bulk_context,matrix_integrin,n_samples,178.0
+C_tcga_bulk_context,matrix_integrin,spearman_rho,0.4517053947691793
+C_tcga_bulk_context,matrix_integrin,p_value,2.4728485370533016e-10
+C_tcga_bulk_context,matrix_integrin,axis_x,matrix_integrin
+C_tcga_bulk_context,matrix_integrin,axis_y,TGFb_EMT
+C_tcga_bulk_context,matrix_integrin,n_samples,178.0
+C_tcga_bulk_context,matrix_integrin,spearman_rho,0.8959283094786947
+C_tcga_bulk_context,matrix_integrin,p_value,6.299319924684979e-64
+C_tcga_bulk_context,matrix_integrin,axis_x,matrix_integrin
+C_tcga_bulk_context,matrix_integrin,axis_y,matrix_integrin
+C_tcga_bulk_context,matrix_integrin,n_samples,178.0
+C_tcga_bulk_context,matrix_integrin,spearman_rho,1.0
+C_tcga_bulk_context,matrix_integrin,p_value,0.0
+C_tcga_bulk_context,matrix_integrin,axis_x,matrix_integrin
+C_tcga_bulk_context,matrix_integrin,axis_y,DC_APC
+C_tcga_bulk_context,matrix_integrin,n_samples,178.0
+C_tcga_bulk_context,matrix_integrin,spearman_rho,0.2508859711744185
+C_tcga_bulk_context,matrix_integrin,p_value,0.00073056659028
+C_tcga_bulk_context,matrix_integrin,axis_x,matrix_integrin
+C_tcga_bulk_context,matrix_integrin,axis_y,T_NK
+C_tcga_bulk_context,matrix_integrin,n_samples,178.0
+C_tcga_bulk_context,matrix_integrin,spearman_rho,0.2475133760103157
+C_tcga_bulk_context,matrix_integrin,p_value,0.0008654752019794
+C_tcga_bulk_context,matrix_integrin,axis_x,matrix_integrin
+C_tcga_bulk_context,matrix_integrin,axis_y,B_plasma
+C_tcga_bulk_context,matrix_integrin,n_samples,178.0
+C_tcga_bulk_context,matrix_integrin,spearman_rho,0.1622282108542241
+C_tcga_bulk_context,matrix_integrin,p_value,0.0305029069376698
+C_tcga_bulk_context,matrix_integrin,axis_x,matrix_integrin
+C_tcga_bulk_context,matrix_integrin,axis_y,bulk_decoupling_like_index
+C_tcga_bulk_context,matrix_integrin,n_samples,178.0
+C_tcga_bulk_context,matrix_integrin,spearman_rho,0.5985973408629801
+C_tcga_bulk_context,matrix_integrin,p_value,1.0996827430818017e-18
+C_tcga_bulk_context,DC_APC,axis_x,DC_APC
+C_tcga_bulk_context,DC_APC,axis_y,myCAF_matrix
+C_tcga_bulk_context,DC_APC,n_samples,178.0
+C_tcga_bulk_context,DC_APC,spearman_rho,0.362545468859882
+C_tcga_bulk_context,DC_APC,p_value,6.588169334816161e-07
+C_tcga_bulk_context,DC_APC,axis_x,DC_APC
+C_tcga_bulk_context,DC_APC,axis_y,SPP1_TAM
+C_tcga_bulk_context,DC_APC,n_samples,178.0
+C_tcga_bulk_context,DC_APC,spearman_rho,0.732641508028798
+C_tcga_bulk_context,DC_APC,p_value,3.1785690561290388e-31
+C_tcga_bulk_context,DC_APC,axis_x,DC_APC
+C_tcga_bulk_context,DC_APC,axis_y,TGFb_EMT
+C_tcga_bulk_context,DC_APC,n_samples,178.0
+C_tcga_bulk_context,DC_APC,spearman_rho,0.3258001402233573
+C_tcga_bulk_context,DC_APC,p_value,9.089088772187584e-06
+C_tcga_bulk_context,DC_APC,axis_x,DC_APC
+C_tcga_bulk_context,DC_APC,axis_y,matrix_integrin
+C_tcga_bulk_context,DC_APC,n_samples,178.0
+C_tcga_bulk_context,DC_APC,spearman_rho,0.2508859711744185
+C_tcga_bulk_context,DC_APC,p_value,0.00073056659028
+C_tcga_bulk_context,DC_APC,axis_x,DC_APC
+C_tcga_bulk_context,DC_APC,axis_y,DC_APC
+C_tcga_bulk_context,DC_APC,n_samples,178.0
+C_tcga_bulk_context,DC_APC,spearman_rho,1.0
+C_tcga_bulk_context,DC_APC,p_value,0.0
+C_tcga_bulk_context,DC_APC,axis_x,DC_APC
+C_tcga_bulk_context,DC_APC,axis_y,T_NK
+C_tcga_bulk_context,DC_APC,n_samples,178.0
+C_tcga_bulk_context,DC_APC,spearman_rho,0.9163298504461508
+C_tcga_bulk_context,DC_APC,p_value,7.238383448185345e-72
+C_tcga_bulk_context,DC_APC,axis_x,DC_APC
+C_tcga_bulk_context,DC_APC,axis_y,B_plasma
+C_tcga_bulk_context,DC_APC,n_samples,178.0
+C_tcga_bulk_context,DC_APC,spearman_rho,0.6454689662729844
+C_tcga_bulk_context,DC_APC,p_value,2.3356454237884585e-22
+C_tcga_bulk_context,DC_APC,axis_x,DC_APC
+C_tcga_bulk_context,DC_APC,axis_y,bulk_decoupling_like_index
+C_tcga_bulk_context,DC_APC,n_samples,178.0
+C_tcga_bulk_context,DC_APC,spearman_rho,-0.4138131709948305
+C_tcga_bulk_context,DC_APC,p_value,9.382734060725642e-09
+C_tcga_bulk_context,T_NK,axis_x,T_NK
+C_tcga_bulk_context,T_NK,axis_y,myCAF_matrix
+C_tcga_bulk_context,T_NK,n_samples,178.0
+C_tcga_bulk_context,T_NK,spearman_rho,0.3655712293162569
+C_tcga_bulk_context,T_NK,p_value,5.228220209245156e-07
+C_tcga_bulk_context,T_NK,axis_x,T_NK
+C_tcga_bulk_context,T_NK,axis_y,SPP1_TAM
+C_tcga_bulk_context,T_NK,n_samples,178.0
+C_tcga_bulk_context,T_NK,spearman_rho,0.6542100520358453
+C_tcga_bulk_context,T_NK,p_value,4.0842547119462674e-23
+C_tcga_bulk_context,T_NK,axis_x,T_NK
+C_tcga_bulk_context,T_NK,axis_y,TGFb_EMT
+C_tcga_bulk_context,T_NK,n_samples,178.0
+C_tcga_bulk_context,T_NK,spearman_rho,0.3631561532839182
+C_tcga_bulk_context,T_NK,p_value,6.289003120299859e-07
+C_tcga_bulk_context,T_NK,axis_x,T_NK
+C_tcga_bulk_context,T_NK,axis_y,matrix_integrin
+C_tcga_bulk_context,T_NK,n_samples,178.0
+C_tcga_bulk_context,T_NK,spearman_rho,0.2475133760103157
+C_tcga_bulk_context,T_NK,p_value,0.0008654752019794
+C_tcga_bulk_context,T_NK,axis_x,T_NK
+C_tcga_bulk_context,T_NK,axis_y,DC_APC
+C_tcga_bulk_context,T_NK,n_samples,178.0
+C_tcga_bulk_context,T_NK,spearman_rho,0.9163298504461508
+C_tcga_bulk_context,T_NK,p_value,7.238383448185345e-72
+C_tcga_bulk_context,T_NK,axis_x,T_NK
+C_tcga_bulk_context,T_NK,axis_y,T_NK
+C_tcga_bulk_context,T_NK,n_samples,178.0
+C_tcga_bulk_context,T_NK,spearman_rho,1.0
+C_tcga_bulk_context,T_NK,p_value,0.0
+C_tcga_bulk_context,T_NK,axis_x,T_NK
+C_tcga_bulk_context,T_NK,axis_y,B_plasma
+C_tcga_bulk_context,T_NK,n_samples,178.0
+C_tcga_bulk_context,T_NK,spearman_rho,0.7573433738080216
+C_tcga_bulk_context,T_NK,p_value,2.109459994883182e-34
+C_tcga_bulk_context,T_NK,axis_x,T_NK
+C_tcga_bulk_context,T_NK,axis_y,bulk_decoupling_like_index
+C_tcga_bulk_context,T_NK,n_samples,178.0
+C_tcga_bulk_context,T_NK,spearman_rho,-0.4779520580809827
+C_tcga_bulk_context,T_NK,p_value,1.513285422923477e-11
+C_tcga_bulk_context,B_plasma,axis_x,B_plasma
+C_tcga_bulk_context,B_plasma,axis_y,myCAF_matrix
+C_tcga_bulk_context,B_plasma,n_samples,178.0
+C_tcga_bulk_context,B_plasma,spearman_rho,0.2805818311808658
+C_tcga_bulk_context,B_plasma,p_value,0.0001485119195223
+C_tcga_bulk_context,B_plasma,axis_x,B_plasma
+C_tcga_bulk_context,B_plasma,axis_y,SPP1_TAM
+C_tcga_bulk_context,B_plasma,n_samples,178.0
+C_tcga_bulk_context,B_plasma,spearman_rho,0.3393500998479672
+C_tcga_bulk_context,B_plasma,p_value,3.5892769109097904e-06
+C_tcga_bulk_context,B_plasma,axis_x,B_plasma
+C_tcga_bulk_context,B_plasma,axis_y,TGFb_EMT
+C_tcga_bulk_context,B_plasma,n_samples,178.0
+C_tcga_bulk_context,B_plasma,spearman_rho,0.2387680346068692
+C_tcga_bulk_context,B_plasma,p_value,0.0013288626893025
+C_tcga_bulk_context,B_plasma,axis_x,B_plasma
+C_tcga_bulk_context,B_plasma,axis_y,matrix_integrin
+C_tcga_bulk_context,B_plasma,n_samples,178.0
+C_tcga_bulk_context,B_plasma,spearman_rho,0.1622282108542241
+C_tcga_bulk_context,B_plasma,p_value,0.0305029069376698
+C_tcga_bulk_context,B_plasma,axis_x,B_plasma
+C_tcga_bulk_context,B_plasma,axis_y,DC_APC
+C_tcga_bulk_context,B_plasma,n_samples,178.0
+C_tcga_bulk_context,B_plasma,spearman_rho,0.6454689662729844
+C_tcga_bulk_context,B_plasma,p_value,2.3356454237884585e-22
+C_tcga_bulk_context,B_plasma,axis_x,B_plasma
+C_tcga_bulk_context,B_plasma,axis_y,T_NK
+C_tcga_bulk_context,B_plasma,n_samples,178.0
+C_tcga_bulk_context,B_plasma,spearman_rho,0.7573433738080216
+C_tcga_bulk_context,B_plasma,p_value,2.109459994883182e-34
+C_tcga_bulk_context,B_plasma,axis_x,B_plasma
+C_tcga_bulk_context,B_plasma,axis_y,B_plasma
+C_tcga_bulk_context,B_plasma,n_samples,178.0
+C_tcga_bulk_context,B_plasma,spearman_rho,1.0
+C_tcga_bulk_context,B_plasma,p_value,0.0
+C_tcga_bulk_context,B_plasma,axis_x,B_plasma
+C_tcga_bulk_context,B_plasma,axis_y,bulk_decoupling_like_index
+C_tcga_bulk_context,B_plasma,n_samples,178.0
+C_tcga_bulk_context,B_plasma,spearman_rho,-0.5458827209289212
+C_tcga_bulk_context,B_plasma,p_value,3.267521116115369e-15
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_x,bulk_decoupling_like_index
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_y,myCAF_matrix
+C_tcga_bulk_context,bulk_decoupling_like_index,n_samples,178.0
+C_tcga_bulk_context,bulk_decoupling_like_index,spearman_rho,0.4811225103172687
+C_tcga_bulk_context,bulk_decoupling_like_index,p_value,1.0623440099610542e-11
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_x,bulk_decoupling_like_index
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_y,SPP1_TAM
+C_tcga_bulk_context,bulk_decoupling_like_index,n_samples,178.0
+C_tcga_bulk_context,bulk_decoupling_like_index,spearman_rho,0.0631696649427776
+C_tcga_bulk_context,bulk_decoupling_like_index,p_value,0.4022060609536876
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_x,bulk_decoupling_like_index
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_y,TGFb_EMT
+C_tcga_bulk_context,bulk_decoupling_like_index,n_samples,178.0
+C_tcga_bulk_context,bulk_decoupling_like_index,spearman_rho,0.4941277479469194
+C_tcga_bulk_context,bulk_decoupling_like_index,p_value,2.394364567645327e-12
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_x,bulk_decoupling_like_index
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_y,matrix_integrin
+C_tcga_bulk_context,bulk_decoupling_like_index,n_samples,178.0
+C_tcga_bulk_context,bulk_decoupling_like_index,spearman_rho,0.5985973408629801
+C_tcga_bulk_context,bulk_decoupling_like_index,p_value,1.0996827430818017e-18
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_x,bulk_decoupling_like_index
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_y,DC_APC
+C_tcga_bulk_context,bulk_decoupling_like_index,n_samples,178.0
+C_tcga_bulk_context,bulk_decoupling_like_index,spearman_rho,-0.4138131709948305
+C_tcga_bulk_context,bulk_decoupling_like_index,p_value,9.382734060725642e-09
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_x,bulk_decoupling_like_index
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_y,T_NK
+C_tcga_bulk_context,bulk_decoupling_like_index,n_samples,178.0
+C_tcga_bulk_context,bulk_decoupling_like_index,spearman_rho,-0.4779520580809827
+C_tcga_bulk_context,bulk_decoupling_like_index,p_value,1.513285422923477e-11
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_x,bulk_decoupling_like_index
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_y,B_plasma
+C_tcga_bulk_context,bulk_decoupling_like_index,n_samples,178.0
+C_tcga_bulk_context,bulk_decoupling_like_index,spearman_rho,-0.5458827209289212
+C_tcga_bulk_context,bulk_decoupling_like_index,p_value,3.267521116115369e-15
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_x,bulk_decoupling_like_index
+C_tcga_bulk_context,bulk_decoupling_like_index,axis_y,bulk_decoupling_like_index
+C_tcga_bulk_context,bulk_decoupling_like_index,n_samples,178.0
+C_tcga_bulk_context,bulk_decoupling_like_index,spearman_rho,1.0
+C_tcga_bulk_context,bulk_decoupling_like_index,p_value,0.0
+D_tcga_survival,B/plasma,cox_hr_per_sd,0.9829358528334144
+D_tcga_survival,B/plasma,cox_ci95_low,0.8023537474915443
+D_tcga_survival,B/plasma,cox_ci95_high,1.204160750549163
+D_tcga_survival,B/plasma,cox_p,0.8680122332824296
+D_tcga_survival,B/plasma,n,182.0
+D_tcga_survival,B/plasma,events,95.0
+D_tcga_survival,B/plasma,median_split_cutpoint,-0.1517728182239014
+D_tcga_survival,B/plasma,n_high,91.0
+D_tcga_survival,B/plasma,events_high,45.0
+D_tcga_survival,B/plasma,n_low,91.0
+D_tcga_survival,B/plasma,events_low,50.0
+D_tcga_survival,B/plasma,logrank_p_median_split,0.5278523368971528
+D_tcga_survival,B/plasma,cox_fdr_bh,0.8680122332824296
+D_tcga_survival,B/plasma,logrank_fdr_bh,0.5278523368971528
+D_tcga_survival,T/NK,cox_hr_per_sd,1.069117532772442
+D_tcga_survival,T/NK,cox_ci95_low,0.8809634245369931
+D_tcga_survival,T/NK,cox_ci95_high,1.2974571554797127
+D_tcga_survival,T/NK,cox_p,0.4985860638375166
+D_tcga_survival,T/NK,n,182.0
+D_tcga_survival,T/NK,events,95.0
+D_tcga_survival,T/NK,median_split_cutpoint,-0.0085476711794166
+D_tcga_survival,T/NK,n_high,91.0
+D_tcga_survival,T/NK,events_high,47.0
+D_tcga_survival,T/NK,n_low,91.0
+D_tcga_survival,T/NK,events_low,48.0
+D_tcga_survival,T/NK,logrank_p_median_split,0.4856812444674875
+D_tcga_survival,T/NK,cox_fdr_bh,0.5698126443857332
+D_tcga_survival,T/NK,logrank_fdr_bh,0.5278523368971528
+D_tcga_survival,DC/APC,cox_hr_per_sd,1.1723804819333496
+D_tcga_survival,DC/APC,cox_ci95_low,0.9675174963579856
+D_tcga_survival,DC/APC,cox_ci95_high,1.420621332009185
+D_tcga_survival,DC/APC,cox_p,0.1045884098097511
+D_tcga_survival,DC/APC,n,182.0
+D_tcga_survival,DC/APC,events,95.0
+D_tcga_survival,DC/APC,median_split_cutpoint,0.1083229332610561
+D_tcga_survival,DC/APC,n_high,91.0
+D_tcga_survival,DC/APC,events_high,47.0
+D_tcga_survival,DC/APC,n_low,91.0
+D_tcga_survival,DC/APC,events_low,48.0
+D_tcga_survival,DC/APC,logrank_p_median_split,0.4996059819816256
+D_tcga_survival,DC/APC,cox_fdr_bh,0.1394512130796682
+D_tcga_survival,DC/APC,logrank_fdr_bh,0.5278523368971528
+D_tcga_survival,SPP1/TAM,cox_hr_per_sd,1.1874967578728834
+D_tcga_survival,SPP1/TAM,cox_ci95_low,0.9764497828412088
+D_tcga_survival,SPP1/TAM,cox_ci95_high,1.4441588033902295
+D_tcga_survival,SPP1/TAM,cox_p,0.0851981982115932
+D_tcga_survival,SPP1/TAM,n,182.0
+D_tcga_survival,SPP1/TAM,events,95.0
+D_tcga_survival,SPP1/TAM,median_split_cutpoint,0.1354357044471985
+D_tcga_survival,SPP1/TAM,n_high,91.0
+D_tcga_survival,SPP1/TAM,events_high,49.0
+D_tcga_survival,SPP1/TAM,n_low,91.0
+D_tcga_survival,SPP1/TAM,events_low,46.0
+D_tcga_survival,SPP1/TAM,logrank_p_median_split,0.3393979785369373
+D_tcga_survival,SPP1/TAM,cox_fdr_bh,0.1363171171385492
+D_tcga_survival,SPP1/TAM,logrank_fdr_bh,0.5278523368971528
+D_tcga_survival,Bulk decoupling-like,cox_hr_per_sd,1.2486450542583567
+D_tcga_survival,Bulk decoupling-like,cox_ci95_low,1.016076565115282
+D_tcga_survival,Bulk decoupling-like,cox_ci95_high,1.5344458528545637
+D_tcga_survival,Bulk decoupling-like,cox_p,0.0347152995406321
+D_tcga_survival,Bulk decoupling-like,n,182.0
+D_tcga_survival,Bulk decoupling-like,events,95.0
+D_tcga_survival,Bulk decoupling-like,median_split_cutpoint,-0.0041148946002781
+D_tcga_survival,Bulk decoupling-like,n_high,91.0
+D_tcga_survival,Bulk decoupling-like,events_high,51.0
+D_tcga_survival,Bulk decoupling-like,n_low,91.0
+D_tcga_survival,Bulk decoupling-like,events_low,44.0
+D_tcga_survival,Bulk decoupling-like,logrank_p_median_split,0.0830561268399711
+D_tcga_survival,Bulk decoupling-like,cox_fdr_bh,0.0694305990812642
+D_tcga_survival,Bulk decoupling-like,logrank_fdr_bh,0.3954041347918525
+D_tcga_survival,myCAF/matrix,cox_hr_per_sd,1.2651562856314107
+D_tcga_survival,myCAF/matrix,cox_ci95_low,1.025686869342035
+D_tcga_survival,myCAF/matrix,cox_ci95_high,1.560535164206056
+D_tcga_survival,myCAF/matrix,cox_p,0.0280272367275959
+D_tcga_survival,myCAF/matrix,n,182.0
+D_tcga_survival,myCAF/matrix,events,95.0
+D_tcga_survival,myCAF/matrix,median_split_cutpoint,0.1515273654213662
+D_tcga_survival,myCAF/matrix,n_high,91.0
+D_tcga_survival,myCAF/matrix,events_high,49.0
+D_tcga_survival,myCAF/matrix,n_low,91.0
+D_tcga_survival,myCAF/matrix,events_low,46.0
+D_tcga_survival,myCAF/matrix,logrank_p_median_split,0.2715793011140674
+D_tcga_survival,myCAF/matrix,cox_fdr_bh,0.0694305990812642
+D_tcga_survival,myCAF/matrix,logrank_fdr_bh,0.5278523368971528
+D_tcga_survival,TGF-beta/EMT,cox_hr_per_sd,1.3238776850726532
+D_tcga_survival,TGF-beta/EMT,cox_ci95_low,1.0581726207366136
+D_tcga_survival,TGF-beta/EMT,cox_ci95_high,1.656300768596029
+D_tcga_survival,TGF-beta/EMT,cox_p,0.0140999168657758
+D_tcga_survival,TGF-beta/EMT,n,182.0
+D_tcga_survival,TGF-beta/EMT,events,95.0
+D_tcga_survival,TGF-beta/EMT,median_split_cutpoint,0.0813502888540772
+D_tcga_survival,TGF-beta/EMT,n_high,91.0
+D_tcga_survival,TGF-beta/EMT,events_high,49.0
+D_tcga_survival,TGF-beta/EMT,n_low,91.0
+D_tcga_survival,TGF-beta/EMT,events_low,46.0
+D_tcga_survival,TGF-beta/EMT,logrank_p_median_split,0.0988510336979631
+D_tcga_survival,TGF-beta/EMT,cox_fdr_bh,0.0563996674631033
+D_tcga_survival,TGF-beta/EMT,logrank_fdr_bh,0.3954041347918525
+D_tcga_survival,Matrix-integrin,cox_hr_per_sd,1.3914979444795037
+D_tcga_survival,Matrix-integrin,cox_ci95_low,1.1147607281176628
+D_tcga_survival,Matrix-integrin,cox_ci95_high,1.7369346449441037
+D_tcga_survival,Matrix-integrin,cox_p,0.0034971447615927
+D_tcga_survival,Matrix-integrin,n,182.0
+D_tcga_survival,Matrix-integrin,events,95.0
+D_tcga_survival,Matrix-integrin,median_split_cutpoint,0.1752888671457538
+D_tcga_survival,Matrix-integrin,n_high,91.0
+D_tcga_survival,Matrix-integrin,events_high,48.0
+D_tcga_survival,Matrix-integrin,n_low,91.0
+D_tcga_survival,Matrix-integrin,events_low,47.0
+D_tcga_survival,Matrix-integrin,logrank_p_median_split,0.2000348078578304
+D_tcga_survival,Matrix-integrin,cox_fdr_bh,0.0279771580927423
+D_tcga_survival,Matrix-integrin,logrank_fdr_bh,0.5278523368971528
+E_tls_compatibility,treatment_naive_primary,n_samples,5.0
+E_tls_compatibility,treatment_naive_primary,tls_compatible_samples,0.0
+E_tls_compatibility,treatment_naive_primary,tls_compatible_fraction,0.0
+E_tls_compatibility,treatment_naive_primary,tls_loose_compatible_samples,1.0
+E_tls_compatibility,treatment_naive_primary,tls_loose_compatible_fraction,0.2
+E_tls_compatibility,treatment_naive_primary,median_tls_chemokine,-0.0123003446925152
+E_tls_compatibility,treatment_naive_primary,median_b_cell,0.3408093011535105
+E_tls_compatibility,treatment_naive_primary,median_t_cell,0.1116371122057578
+E_tls_compatibility,treatment_naive_primary,median_plasma_cell,-0.0250156679877541
+E_tls_compatibility,treatment_naive_primary,median_dc_apc,0.630438485027909
+E_tls_compatibility,treatment_naive_primary,median_fdc_gc_like,0.0516783972429283
+E_tls_compatibility,treatment_naive_primary,median_immune_hub_core,0.4183109426624527
+E_tls_compatibility,treatment_naive_primary,median_immune_hub_maturity,0.3197743115971023
+E_tls_compatibility,treatment_naive_primary,median_caf_myeloid,1.7911219454924872
+E_tls_compatibility,treatment_naive_primary,median_three_compartment,0.1344210074526376
+E_tls_compatibility,treatment_naive_primary,median_caf_minus_tls_maturity,1.4344889012073108
+E_tls_compatibility,treatment_naive_primary,context_label,treat-naive
+E_tls_compatibility,primary_tumor,n_samples,10.0
+E_tls_compatibility,primary_tumor,tls_compatible_samples,0.0
+E_tls_compatibility,primary_tumor,tls_compatible_fraction,0.0
+E_tls_compatibility,primary_tumor,tls_loose_compatible_samples,5.0
+E_tls_compatibility,primary_tumor,tls_loose_compatible_fraction,0.5
+E_tls_compatibility,primary_tumor,median_tls_chemokine,-0.0162937255042557
+E_tls_compatibility,primary_tumor,median_b_cell,0.437945289938999
+E_tls_compatibility,primary_tumor,median_t_cell,0.1355832857117193
+E_tls_compatibility,primary_tumor,median_plasma_cell,-0.0354484397142319
+E_tls_compatibility,primary_tumor,median_dc_apc,0.6316803662530961
+E_tls_compatibility,primary_tumor,median_fdc_gc_like,0.0971470519916836
+E_tls_compatibility,primary_tumor,median_immune_hub_core,0.5529107261382473
+E_tls_compatibility,primary_tumor,median_immune_hub_maturity,0.427466599300264
+E_tls_compatibility,primary_tumor,median_caf_myeloid,1.920211311149676
+E_tls_compatibility,primary_tumor,median_three_compartment,0.2160620609706254
+E_tls_compatibility,primary_tumor,median_caf_minus_tls_maturity,1.5247986962881472
+E_tls_compatibility,primary_tumor,context_label,primary
+E_tls_compatibility,normal_pancreas,n_samples,3.0
+E_tls_compatibility,normal_pancreas,tls_compatible_samples,0.0
+E_tls_compatibility,normal_pancreas,tls_compatible_fraction,0.0
+E_tls_compatibility,normal_pancreas,tls_loose_compatible_samples,3.0
+E_tls_compatibility,normal_pancreas,tls_loose_compatible_fraction,1.0
+E_tls_compatibility,normal_pancreas,median_tls_chemokine,0.4075458249597891
+E_tls_compatibility,normal_pancreas,median_b_cell,0.7982579475684288
+E_tls_compatibility,normal_pancreas,median_t_cell,0.3585225164516304
+E_tls_compatibility,normal_pancreas,median_plasma_cell,0.420614710941072
+E_tls_compatibility,normal_pancreas,median_dc_apc,0.8417472461880555
+E_tls_compatibility,normal_pancreas,median_fdc_gc_like,0.1499865069975302
+E_tls_compatibility,normal_pancreas,median_immune_hub_core,1.171980699661783
+E_tls_compatibility,normal_pancreas,median_immune_hub_maturity,0.9198585660228894
+E_tls_compatibility,normal_pancreas,median_caf_myeloid,2.350435186563043
+E_tls_compatibility,normal_pancreas,median_three_compartment,0.4964623333101365
+E_tls_compatibility,normal_pancreas,median_caf_minus_tls_maturity,1.486916040958528
+E_tls_compatibility,normal_pancreas,context_label,normal
+E_tls_compatibility,lymph_node_metastasis,n_samples,5.0
+E_tls_compatibility,lymph_node_metastasis,tls_compatible_samples,0.0
+E_tls_compatibility,lymph_node_metastasis,tls_compatible_fraction,0.0
+E_tls_compatibility,lymph_node_metastasis,tls_loose_compatible_samples,2.0
+E_tls_compatibility,lymph_node_metastasis,tls_loose_compatible_fraction,0.4
+E_tls_compatibility,lymph_node_metastasis,median_tls_chemokine,0.0781120789102866
+E_tls_compatibility,lymph_node_metastasis,median_b_cell,-0.2421535707342122
+E_tls_compatibility,lymph_node_metastasis,median_t_cell,-0.1515115087967562
+E_tls_compatibility,lymph_node_metastasis,median_plasma_cell,0.0041376205405176
+E_tls_compatibility,lymph_node_metastasis,median_dc_apc,-0.0116340771542184
+E_tls_compatibility,lymph_node_metastasis,median_fdc_gc_like,-0.0038744783998332
+E_tls_compatibility,lymph_node_metastasis,median_immune_hub_core,-0.1662787965515502
+E_tls_compatibility,lymph_node_metastasis,median_immune_hub_maturity,0.3908471140671578
+E_tls_compatibility,lymph_node_metastasis,median_caf_myeloid,1.9570883162382973
+E_tls_compatibility,lymph_node_metastasis,median_three_compartment,0.1975784153481216
+E_tls_compatibility,lymph_node_metastasis,median_caf_minus_tls_maturity,1.4788171940174224
+E_tls_compatibility,lymph_node_metastasis,context_label,LN met
+E_tls_compatibility,gse274557_primary,n_samples,19.0
+E_tls_compatibility,gse274557_primary,tls_compatible_samples,1.0
+E_tls_compatibility,gse274557_primary,tls_compatible_fraction,0.0526315789473684
+E_tls_compatibility,gse274557_primary,tls_loose_compatible_samples,14.0
+E_tls_compatibility,gse274557_primary,tls_loose_compatible_fraction,0.7368421052631579
+E_tls_compatibility,gse274557_primary,median_tls_chemokine,0.2886473511138204
+E_tls_compatibility,gse274557_primary,median_b_cell,0.6131814356342806
+E_tls_compatibility,gse274557_primary,median_t_cell,0.3707401952559446
+E_tls_compatibility,gse274557_primary,median_plasma_cell,0.3895571716449671
+E_tls_compatibility,gse274557_primary,median_dc_apc,0.7769895485277475
+E_tls_compatibility,gse274557_primary,median_fdc_gc_like,0.0655726932063225
+E_tls_compatibility,gse274557_primary,median_immune_hub_core,0.8730961787599824
+E_tls_compatibility,gse274557_primary,median_immune_hub_maturity,0.6317903608286042
+E_tls_compatibility,gse274557_primary,median_caf_myeloid,2.0902013253224774
+E_tls_compatibility,gse274557_primary,median_three_compartment,0.336519901956792
+E_tls_compatibility,gse274557_primary,median_caf_minus_tls_maturity,1.3989511686076308
+E_tls_compatibility,gse274557_primary,context_label,GSE274557 primary
+E_tls_compatibility,gse274557_liver,n_samples,16.0
+E_tls_compatibility,gse274557_liver,tls_compatible_samples,1.0
+E_tls_compatibility,gse274557_liver,tls_compatible_fraction,0.0625
+E_tls_compatibility,gse274557_liver,tls_loose_compatible_samples,14.0
+E_tls_compatibility,gse274557_liver,tls_loose_compatible_fraction,0.875
+E_tls_compatibility,gse274557_liver,median_tls_chemokine,0.2553353643291545
+E_tls_compatibility,gse274557_liver,median_b_cell,0.6777405739256177
+E_tls_compatibility,gse274557_liver,median_t_cell,0.2595608656359106
+E_tls_compatibility,gse274557_liver,median_plasma_cell,0.5311952196032838
+E_tls_compatibility,gse274557_liver,median_dc_apc,0.7430782425828644
+E_tls_compatibility,gse274557_liver,median_fdc_gc_like,0.0691213163178789
+E_tls_compatibility,gse274557_liver,median_immune_hub_core,0.822322586192467
+E_tls_compatibility,gse274557_liver,median_immune_hub_maturity,0.725535189699342
+E_tls_compatibility,gse274557_liver,median_caf_myeloid,2.1875871926061867
+E_tls_compatibility,gse274557_liver,median_three_compartment,0.3995707848171232
+E_tls_compatibility,gse274557_liver,median_caf_minus_tls_maturity,1.37484738896685
+E_tls_compatibility,gse274557_liver,context_label,GSE274557 liver
+E_tls_compatibility,gse274557_peritoneal,n_samples,14.0
+E_tls_compatibility,gse274557_peritoneal,tls_compatible_samples,1.0
+E_tls_compatibility,gse274557_peritoneal,tls_compatible_fraction,0.0714285714285714
+E_tls_compatibility,gse274557_peritoneal,tls_loose_compatible_samples,11.0
+E_tls_compatibility,gse274557_peritoneal,tls_loose_compatible_fraction,0.7857142857142857
+E_tls_compatibility,gse274557_peritoneal,median_tls_chemokine,0.1824213693637193
+E_tls_compatibility,gse274557_peritoneal,median_b_cell,0.412622967301395
+E_tls_compatibility,gse274557_peritoneal,median_t_cell,0.2948880201080113
+E_tls_compatibility,gse274557_peritoneal,median_plasma_cell,0.2107878557976185
+E_tls_compatibility,gse274557_peritoneal,median_dc_apc,0.698843461648144
+E_tls_compatibility,gse274557_peritoneal,median_fdc_gc_like,0.1272895005259713
+E_tls_compatibility,gse274557_peritoneal,median_immune_hub_core,0.7657759027098402
+E_tls_compatibility,gse274557_peritoneal,median_immune_hub_maturity,0.668248291001687
+E_tls_compatibility,gse274557_peritoneal,median_caf_myeloid,2.067806734979952
+E_tls_compatibility,gse274557_peritoneal,median_three_compartment,0.3698229768899954
+E_tls_compatibility,gse274557_peritoneal,median_caf_minus_tls_maturity,1.3514901031565096
+E_tls_compatibility,gse274557_peritoneal,context_label,GSE274557 peritoneal
+E_tls_compatibility,post_neoadjuvant_sections,n_samples,108.0
+E_tls_compatibility,post_neoadjuvant_sections,tls_compatible_samples,9.0
+E_tls_compatibility,post_neoadjuvant_sections,tls_compatible_fraction,0.0833333333333333
+E_tls_compatibility,post_neoadjuvant_sections,tls_loose_compatible_samples,40.0
+E_tls_compatibility,post_neoadjuvant_sections,tls_loose_compatible_fraction,0.3703703703703703
+E_tls_compatibility,post_neoadjuvant_sections,median_tls_chemokine,0.0132367750779284
+E_tls_compatibility,post_neoadjuvant_sections,median_b_cell,0.3818669867440999
+E_tls_compatibility,post_neoadjuvant_sections,median_t_cell,0.1759235183389715
+E_tls_compatibility,post_neoadjuvant_sections,median_plasma_cell,-0.0794005090444477
+E_tls_compatibility,post_neoadjuvant_sections,median_dc_apc,0.7112331828550627
+E_tls_compatibility,post_neoadjuvant_sections,median_fdc_gc_like,0.0070081473395848
+E_tls_compatibility,post_neoadjuvant_sections,median_immune_hub_core,0.4638557255016387
+E_tls_compatibility,post_neoadjuvant_sections,median_immune_hub_maturity,0.3477930040614507
+E_tls_compatibility,post_neoadjuvant_sections,median_caf_myeloid,1.748569263563034
+E_tls_compatibility,post_neoadjuvant_sections,median_three_compartment,0.1657606679267494
+E_tls_compatibility,post_neoadjuvant_sections,median_caf_minus_tls_maturity,1.4225150451298785
+E_tls_compatibility,post_neoadjuvant_sections,context_label,post-NACT
+E_tls_compatibility,gse274557_lung,n_samples,6.0
+E_tls_compatibility,gse274557_lung,tls_compatible_samples,1.0
+E_tls_compatibility,gse274557_lung,tls_compatible_fraction,0.1666666666666666
+E_tls_compatibility,gse274557_lung,tls_loose_compatible_samples,4.0
+E_tls_compatibility,gse274557_lung,tls_loose_compatible_fraction,0.6666666666666666
+E_tls_compatibility,gse274557_lung,median_tls_chemokine,0.2285149742771309
+E_tls_compatibility,gse274557_lung,median_b_cell,0.7515442248505365
+E_tls_compatibility,gse274557_lung,median_t_cell,0.2789863477368534
+E_tls_compatibility,gse274557_lung,median_plasma_cell,0.2151639570495335
+E_tls_compatibility,gse274557_lung,median_dc_apc,1.027316727100291
+E_tls_compatibility,gse274557_lung,median_fdc_gc_like,0.1809186634685722
+E_tls_compatibility,gse274557_lung,median_immune_hub_core,1.0131070953560737
+E_tls_compatibility,gse274557_lung,median_immune_hub_maturity,0.7264827795824624
+E_tls_compatibility,gse274557_lung,median_caf_myeloid,2.055412667960866
+E_tls_compatibility,gse274557_lung,median_three_compartment,0.404428502655675
+E_tls_compatibility,gse274557_lung,median_caf_minus_tls_maturity,1.2981955976635264
+E_tls_compatibility,gse274557_lung,context_label,GSE274557 lung
+E_tls_compatibility,liver_metastasis,n_samples,12.0
+E_tls_compatibility,liver_metastasis,tls_compatible_samples,3.0
+E_tls_compatibility,liver_metastasis,tls_compatible_fraction,0.25
+E_tls_compatibility,liver_metastasis,tls_loose_compatible_samples,8.0
+E_tls_compatibility,liver_metastasis,tls_loose_compatible_fraction,0.6666666666666666
+E_tls_compatibility,liver_metastasis,median_tls_chemokine,0.2116664270666892
+E_tls_compatibility,liver_metastasis,median_b_cell,0.573333048430286
+E_tls_compatibility,liver_metastasis,median_t_cell,0.2558452565516631
+E_tls_compatibility,liver_metastasis,median_plasma_cell,0.502768356430447
+E_tls_compatibility,liver_metastasis,median_dc_apc,0.9526474829003572
+E_tls_compatibility,liver_metastasis,median_fdc_gc_like,0.1722356920966167
+E_tls_compatibility,liver_metastasis,median_immune_hub_core,0.7813231314208955
+E_tls_compatibility,liver_metastasis,median_immune_hub_maturity,0.8394602560717153
+E_tls_compatibility,liver_metastasis,median_caf_myeloid,2.0183626148698304
+E_tls_compatibility,liver_metastasis,median_three_compartment,0.3691669487541224
+E_tls_compatibility,liver_metastasis,median_caf_minus_tls_maturity,1.1318857712559929
+E_tls_compatibility,liver_metastasis,context_label,liver met
+F_tls_compartment,post_neoadjuvant_sections,median_tls_chemokine,0.0132367750779284
+F_tls_compartment,post_neoadjuvant_sections,median_b_cell,0.3818669867440999
+F_tls_compartment,post_neoadjuvant_sections,median_t_cell,0.1759235183389715
+F_tls_compartment,post_neoadjuvant_sections,median_plasma_cell,-0.0794005090444477
+F_tls_compartment,post_neoadjuvant_sections,median_dc_apc,0.7112331828550627
+F_tls_compartment,post_neoadjuvant_sections,median_fdc_gc_like,0.0070081473395848
+F_tls_compartment,post_neoadjuvant_sections,median_caf_myeloid,1.748569263563034
+F_tls_compartment,post_neoadjuvant_sections,median_caf_minus_tls_maturity,1.4225150451298785
+F_tls_compartment,treatment_naive_primary,median_tls_chemokine,-0.0123003446925152
+F_tls_compartment,treatment_naive_primary,median_b_cell,0.3408093011535105
+F_tls_compartment,treatment_naive_primary,median_t_cell,0.1116371122057578
+F_tls_compartment,treatment_naive_primary,median_plasma_cell,-0.0250156679877541
+F_tls_compartment,treatment_naive_primary,median_dc_apc,0.630438485027909
+F_tls_compartment,treatment_naive_primary,median_fdc_gc_like,0.0516783972429283
+F_tls_compartment,treatment_naive_primary,median_caf_myeloid,1.7911219454924872
+F_tls_compartment,treatment_naive_primary,median_caf_minus_tls_maturity,1.4344889012073108
+F_tls_compartment,primary_tumor,median_tls_chemokine,-0.0162937255042557
+F_tls_compartment,primary_tumor,median_b_cell,0.437945289938999
+F_tls_compartment,primary_tumor,median_t_cell,0.1355832857117193
+F_tls_compartment,primary_tumor,median_plasma_cell,-0.0354484397142319
+F_tls_compartment,primary_tumor,median_dc_apc,0.6316803662530961
+F_tls_compartment,primary_tumor,median_fdc_gc_like,0.0971470519916836
+F_tls_compartment,primary_tumor,median_caf_myeloid,1.920211311149676
+F_tls_compartment,primary_tumor,median_caf_minus_tls_maturity,1.5247986962881472
+F_tls_compartment,liver_metastasis,median_tls_chemokine,0.2116664270666892
+F_tls_compartment,liver_metastasis,median_b_cell,0.573333048430286
+F_tls_compartment,liver_metastasis,median_t_cell,0.2558452565516631
+F_tls_compartment,liver_metastasis,median_plasma_cell,0.502768356430447
+F_tls_compartment,liver_metastasis,median_dc_apc,0.9526474829003572
+F_tls_compartment,liver_metastasis,median_fdc_gc_like,0.1722356920966167
+F_tls_compartment,liver_metastasis,median_caf_myeloid,2.0183626148698304
+F_tls_compartment,liver_metastasis,median_caf_minus_tls_maturity,1.1318857712559929
+F_tls_compartment,lymph_node_metastasis,median_tls_chemokine,0.0781120789102866
+F_tls_compartment,lymph_node_metastasis,median_b_cell,-0.2421535707342122
+F_tls_compartment,lymph_node_metastasis,median_t_cell,-0.1515115087967562
+F_tls_compartment,lymph_node_metastasis,median_plasma_cell,0.0041376205405176
+F_tls_compartment,lymph_node_metastasis,median_dc_apc,-0.0116340771542184
+F_tls_compartment,lymph_node_metastasis,median_fdc_gc_like,-0.0038744783998332
+F_tls_compartment,lymph_node_metastasis,median_caf_myeloid,1.9570883162382973
+F_tls_compartment,lymph_node_metastasis,median_caf_minus_tls_maturity,1.4788171940174224
+F_tls_compartment,normal_pancreas,median_tls_chemokine,0.4075458249597891
+F_tls_compartment,normal_pancreas,median_b_cell,0.7982579475684288
+F_tls_compartment,normal_pancreas,median_t_cell,0.3585225164516304
+F_tls_compartment,normal_pancreas,median_plasma_cell,0.420614710941072
+F_tls_compartment,normal_pancreas,median_dc_apc,0.8417472461880555
+F_tls_compartment,normal_pancreas,median_fdc_gc_like,0.1499865069975302
+F_tls_compartment,normal_pancreas,median_caf_myeloid,2.350435186563043
+F_tls_compartment,normal_pancreas,median_caf_minus_tls_maturity,1.486916040958528
+F_tls_compartment,gse274557_primary,median_tls_chemokine,0.2886473511138204
+F_tls_compartment,gse274557_primary,median_b_cell,0.6131814356342806
+F_tls_compartment,gse274557_primary,median_t_cell,0.3707401952559446
+F_tls_compartment,gse274557_primary,median_plasma_cell,0.3895571716449671
+F_tls_compartment,gse274557_primary,median_dc_apc,0.7769895485277475
+F_tls_compartment,gse274557_primary,median_fdc_gc_like,0.0655726932063225
+F_tls_compartment,gse274557_primary,median_caf_myeloid,2.0902013253224774
+F_tls_compartment,gse274557_primary,median_caf_minus_tls_maturity,1.3989511686076308
+F_tls_compartment,gse274557_liver,median_tls_chemokine,0.2553353643291545
+F_tls_compartment,gse274557_liver,median_b_cell,0.6777405739256177
+F_tls_compartment,gse274557_liver,median_t_cell,0.2595608656359106
+F_tls_compartment,gse274557_liver,median_plasma_cell,0.5311952196032838
+F_tls_compartment,gse274557_liver,median_dc_apc,0.7430782425828644
+F_tls_compartment,gse274557_liver,median_fdc_gc_like,0.0691213163178789
+F_tls_compartment,gse274557_liver,median_caf_myeloid,2.1875871926061867
+F_tls_compartment,gse274557_liver,median_caf_minus_tls_maturity,1.37484738896685
+F_tls_compartment,gse274557_lung,median_tls_chemokine,0.2285149742771309
+F_tls_compartment,gse274557_lung,median_b_cell,0.7515442248505365
+F_tls_compartment,gse274557_lung,median_t_cell,0.2789863477368534
+F_tls_compartment,gse274557_lung,median_plasma_cell,0.2151639570495335
+F_tls_compartment,gse274557_lung,median_dc_apc,1.027316727100291
+F_tls_compartment,gse274557_lung,median_fdc_gc_like,0.1809186634685722
+F_tls_compartment,gse274557_lung,median_caf_myeloid,2.055412667960866
+F_tls_compartment,gse274557_lung,median_caf_minus_tls_maturity,1.2981955976635264
+F_tls_compartment,gse274557_peritoneal,median_tls_chemokine,0.1824213693637193
+F_tls_compartment,gse274557_peritoneal,median_b_cell,0.412622967301395
+F_tls_compartment,gse274557_peritoneal,median_t_cell,0.2948880201080113
+F_tls_compartment,gse274557_peritoneal,median_plasma_cell,0.2107878557976185
+F_tls_compartment,gse274557_peritoneal,median_dc_apc,0.698843461648144
+F_tls_compartment,gse274557_peritoneal,median_fdc_gc_like,0.1272895005259713
+F_tls_compartment,gse274557_peritoneal,median_caf_myeloid,2.067806734979952
+F_tls_compartment,gse274557_peritoneal,median_caf_minus_tls_maturity,1.3514901031565096

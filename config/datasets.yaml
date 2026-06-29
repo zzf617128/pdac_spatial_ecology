@@ -1,0 +1,87 @@
+mvp_accessions:
+  - GSE272362
+  - GSE282302
+  - GSE274103
+
+datasets:
+  GSE272362:
+    accession: "GSE272362"
+    disease: "PDAC"
+    platform: "spatial transcriptomics"
+    cohort_role: "main_primary_metastasis"
+    public_no_auth: true
+    expected_patient_count: 13
+    expected_spatial_sample_count: 30
+    has_he_image: true
+    include_in_mvp: true
+    include_in_primary: true
+    priority: 1
+    rationale: "Primary, normal pancreas, liver metastasis, and lymph node metastasis ecology."
+  GSE282302:
+    accession: "GSE282302"
+    disease: "PDAC"
+    platform: "10x Visium"
+    cohort_role: "main_residual_large_he_st"
+    public_no_auth: true
+    expected_patient_count: 39
+    expected_spatial_sample_count: 108
+    has_he_image: true
+    treatment_context: "metadata_required_post_neoadjuvant_or_primary_untreated_ambiguity"
+    include_in_mvp: true
+    include_in_primary: true
+    priority: 2
+    rationale: "Largest ST-H&E cohort; use after strict sample-level treatment-context audit."
+  GSE274103:
+    accession: "GSE274103"
+    disease: "PDAC"
+    platform: "10x Visium"
+    cohort_role: "main_treatment_naive"
+    public_no_auth: true
+    expected_patient_count: 5
+    expected_spatial_sample_count: 5
+    has_he_image: true
+    treatment_context: "treatment_naive"
+    include_in_mvp: true
+    include_in_primary: true
+    priority: 3
+    rationale: "Treatment-naive baseline validation cohort."
+  GSE235315:
+    accession: "GSE235315"
+    disease: "PDAC"
+    platform: "10x Visium"
+    cohort_role: "secondary_scrna_paired"
+    public_no_auth: true
+    expected_patient_count: 7
+    expected_spatial_sample_count: 7
+    has_he_image: true
+    include_in_mvp: false
+    include_in_primary: true
+    priority: 4
+    rationale: "Add only if scRNA reference or spot-mixture interpretation is needed."
+  GSE202740:
+    accession: "GSE202740"
+    disease: "PDAC"
+    platform: "10x Visium"
+    cohort_role: "secondary_neural_niche"
+    public_no_auth: true
+    expected_patient_count: null
+    expected_spatial_sample_count: null
+    has_he_image: true
+    include_in_mvp: false
+    include_in_primary: false
+    priority: 5
+    rationale: "Add only if neural niche signal appears in MVP screening."
+  GSE111672:
+    accession: "GSE111672"
+    disease: "PDAC"
+    platform: "legacy_spatial_transcriptomics"
+    cohort_role: "supplementary_legacy"
+    public_no_auth: true
+    expected_patient_count: 6
+    expected_spatial_sample_count: null
+    has_he_image: true
+    include_in_mvp: false
+    include_in_primary: false
+    priority: 6
+    rationale: "Legacy validation only; do not let it block the MVP."
+

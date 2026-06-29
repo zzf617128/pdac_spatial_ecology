@@ -1,0 +1,115 @@
+comparison_specimen_type,program,program_label,metric,n_pairs,median_delta_vs_primary,iqr_delta_vs_primary,n_increased_vs_primary,n_decreased_vs_primary
+liver_metastasis,apcaf,apCAF,mean_score,10,1.31254710319402e-16,5.65874944924885e-16,6,4
+liver_metastasis,b_cell,B cell,mean_score,10,-1.80202508008715e-16,1.38630357606374e-15,4,6
+liver_metastasis,basal_like,Basal-like tumor,mean_score,10,5.08900218910517e-18,4.32338607383673e-16,5,5
+liver_metastasis,classical_like,Classical-like tumor,mean_score,10,-1.93364832203395e-17,9.92040306788101e-16,5,5
+liver_metastasis,dc_apc,DC/APC,mean_score,10,-7.79120764359613e-17,7.48335050830432e-16,4,6
+liver_metastasis,emt_invasion,EMT/invasion,mean_score,10,-3.52940785854336e-17,5.23189150091602e-16,5,5
+liver_metastasis,hypoxia,Hypoxia,mean_score,10,-2.21829833756002e-16,1.16200028999492e-15,4,6
+liver_metastasis,icaf,iCAF,mean_score,10,1.73551882732272e-17,8.26675230047027e-16,5,5
+liver_metastasis,ifn_mhc,IFN/MHC,mean_score,10,1.55612332013263e-17,2.96480289145824e-16,5,5
+liver_metastasis,immune_core,Immune core,mean_score,10,-5.16248757875276e-17,9.46516580766413e-17,3,7
+liver_metastasis,mycaf,myCAF,mean_score,10,-1.22600198618697e-16,4.03155088969318e-16,4,6
+liver_metastasis,myeloid,Myeloid,mean_score,10,-2.23455633622241e-16,7.86209742249616e-16,4,6
+liver_metastasis,neural_schwann,Neural/Schwann,mean_score,10,2.85627937293701e-16,6.66591511118476e-16,6,4
+liver_metastasis,pan_caf,pan-CAF,mean_score,10,8.4915355160031e-17,3.85349373217525e-16,6,4
+liver_metastasis,plasma_cell,Plasma cell,mean_score,10,-1.35140884858979e-16,7.02840446753701e-16,5,5
+liver_metastasis,spp1_tam,SPP1/TREM2 TAM,mean_score,10,-1.21011917449916e-17,5.5964179850314e-16,5,5
+liver_metastasis,t_cell,T cell,mean_score,10,-1.13406674207091e-16,4.76951597483424e-16,4,6
+liver_metastasis,tgfb,TGF-beta,mean_score,10,-7.38793021739918e-17,1.5641809356401e-16,4,6
+liver_metastasis,tumor_aggressive,Tumor-aggressive,mean_score,10,-1.52272444040152e-19,1.09131331486945e-16,5,5
+lymph_node_metastasis,apcaf,apCAF,mean_score,4,2.80906702313892e-16,3.36374075040962e-16,4,0
+lymph_node_metastasis,b_cell,B cell,mean_score,4,-3.50419843238107e-16,7.76939728196022e-16,0,4
+lymph_node_metastasis,basal_like,Basal-like tumor,mean_score,4,5.90482646390965e-16,9.04291966821249e-16,3,1
+lymph_node_metastasis,classical_like,Classical-like tumor,mean_score,4,-5.20004399351113e-17,1.90377357416698e-16,1,3
+lymph_node_metastasis,dc_apc,DC/APC,mean_score,4,-1.96964079804114e-16,7.95511603386757e-16,2,2
+lymph_node_metastasis,emt_invasion,EMT/invasion,mean_score,4,-8.05836467036522e-17,3.55802277293939e-16,2,2
+lymph_node_metastasis,hypoxia,Hypoxia,mean_score,4,9.38481163633447e-17,1.80244453675403e-15,2,2
+lymph_node_metastasis,icaf,iCAF,mean_score,4,-7.73155649201785e-17,4.80368044386037e-16,1,3
+lymph_node_metastasis,ifn_mhc,IFN/MHC,mean_score,4,-4.01263406053096e-17,1.80909171168109e-16,1,3
+lymph_node_metastasis,immune_core,Immune core,mean_score,4,-7.54547355135947e-17,9.67885723986257e-17,1,3
+lymph_node_metastasis,mycaf,myCAF,mean_score,4,7.64086026228065e-17,5.4906458298422e-16,2,2
+lymph_node_metastasis,myeloid,Myeloid,mean_score,4,-1.75338954162853e-16,5.24543749083223e-16,1,3
+lymph_node_metastasis,neural_schwann,Neural/Schwann,mean_score,4,-4.36775610643009e-17,2.18459653124091e-16,2,2
+lymph_node_metastasis,pan_caf,pan-CAF,mean_score,4,-9.95948400533599e-17,1.92197566097457e-16,1,3
+lymph_node_metastasis,plasma_cell,Plasma cell,mean_score,4,-1.02215746211974e-16,9.61592418468486e-17,0,4
+lymph_node_metastasis,spp1_tam,SPP1/TREM2 TAM,mean_score,4,1.83191468575021e-16,1.66455885521902e-16,3,1
+lymph_node_metastasis,t_cell,T cell,mean_score,4,-1.46816846737774e-16,3.76203336291039e-16,1,3
+lymph_node_metastasis,tgfb,TGF-beta,mean_score,4,-1.09185016891386e-16,4.11125836568574e-16,2,2
+lymph_node_metastasis,tumor_aggressive,Tumor-aggressive,mean_score,4,-1.36248470114592e-17,7.63686155996578e-17,2,2
+normal_pancreas,apcaf,apCAF,mean_score,3,-4.64120145317664e-17,2.91505588665969e-16,1,2
+normal_pancreas,b_cell,B cell,mean_score,3,-4.74689108260842e-16,7.06765840574318e-16,1,2
+normal_pancreas,basal_like,Basal-like tumor,mean_score,3,1.15163481844153e-16,8.62237872104239e-16,2,1
+normal_pancreas,classical_like,Classical-like tumor,mean_score,3,-1.14254572151725e-16,7.02487530751548e-16,1,2
+normal_pancreas,dc_apc,DC/APC,mean_score,3,2.72198781676215e-16,2.61409987749102e-16,2,1
+normal_pancreas,emt_invasion,EMT/invasion,mean_score,3,5.75746917987246e-17,5.24111124889507e-17,3,0
+normal_pancreas,hypoxia,Hypoxia,mean_score,3,-1.09393378529943e-15,7.43010640386303e-16,1,2
+normal_pancreas,icaf,iCAF,mean_score,3,-1.08327914431535e-17,2.23258241419556e-16,1,2
+normal_pancreas,ifn_mhc,IFN/MHC,mean_score,3,1.06984171252791e-16,1.86430127850977e-16,2,1
+normal_pancreas,immune_core,Immune core,mean_score,3,-1.19634283690944e-17,2.22255968088365e-17,1,2
+normal_pancreas,mycaf,myCAF,mean_score,3,1.20529993314483e-16,3.12523107454446e-16,2,1
+normal_pancreas,myeloid,Myeloid,mean_score,3,-8.49888119306958e-17,6.24801886535234e-16,1,2
+normal_pancreas,neural_schwann,Neural/Schwann,mean_score,3,-7.82396788358207e-17,4.76218237213788e-16,1,2
+normal_pancreas,pan_caf,pan-CAF,mean_score,3,6.04649628340354e-17,7.95820192245409e-17,2,1
+normal_pancreas,plasma_cell,Plasma cell,mean_score,3,-4.214693196336e-18,3.64122507127871e-16,1,2
+normal_pancreas,spp1_tam,SPP1/TREM2 TAM,mean_score,3,-5.6321542091254e-16,5.98410028802291e-16,1,2
+normal_pancreas,t_cell,T cell,mean_score,3,3.02170300606323e-19,4.97098223554944e-16,2,1
+normal_pancreas,tgfb,TGF-beta,mean_score,3,-2.07764228005253e-16,1.8562993130541e-16,1,2
+normal_pancreas,tumor_aggressive,Tumor-aggressive,mean_score,3,3.80386675210762e-17,3.92521830266667e-17,2,1
+liver_metastasis,apcaf,apCAF,rho_distance_to_caf_core,10,-0.0584406161884617,0.163425941761948,3,7
+liver_metastasis,b_cell,B cell,rho_distance_to_caf_core,10,-0.032941727644103,0.19016597056222,2,8
+liver_metastasis,basal_like,Basal-like tumor,rho_distance_to_caf_core,10,-0.0624469694151784,0.400240631354532,4,6
+liver_metastasis,classical_like,Classical-like tumor,rho_distance_to_caf_core,10,-0.00147230519851607,0.229537737062707,5,5
+liver_metastasis,dc_apc,DC/APC,rho_distance_to_caf_core,10,-0.0440756293849647,0.0824658960860023,1,9
+liver_metastasis,emt_invasion,EMT/invasion,rho_distance_to_caf_core,10,0.0653089653708714,0.197282506522358,7,3
+liver_metastasis,hypoxia,Hypoxia,rho_distance_to_caf_core,10,0.0755296447656655,0.0980895061449591,8,2
+liver_metastasis,icaf,iCAF,rho_distance_to_caf_core,10,0.0608805168842296,0.109322401178392,7,3
+liver_metastasis,ifn_mhc,IFN/MHC,rho_distance_to_caf_core,10,-0.0512198287401478,0.0991741129042325,0,10
+liver_metastasis,immune_core,Immune core,rho_distance_to_caf_core,10,-0.105608991407309,0.131240154834676,2,8
+liver_metastasis,mycaf,myCAF,rho_distance_to_caf_core,10,-0.00672347050641806,0.199107876939464,5,5
+liver_metastasis,myeloid,Myeloid,rho_distance_to_caf_core,10,0.0229126065867175,0.0388813988344441,8,2
+liver_metastasis,neural_schwann,Neural/Schwann,rho_distance_to_caf_core,10,-0.0541685001005134,0.134050725090524,3,7
+liver_metastasis,pan_caf,pan-CAF,rho_distance_to_caf_core,10,0.0444146041566381,0.148434609637963,6,4
+liver_metastasis,plasma_cell,Plasma cell,rho_distance_to_caf_core,10,-0.099578002825127,0.507221742994578,3,7
+liver_metastasis,spp1_tam,SPP1/TREM2 TAM,rho_distance_to_caf_core,10,0.0495498896650811,0.144627269064688,7,3
+liver_metastasis,t_cell,T cell,rho_distance_to_caf_core,10,-0.047932425076509,0.098330556844203,3,7
+liver_metastasis,tgfb,TGF-beta,rho_distance_to_caf_core,10,0.0729928733336432,0.136124873169765,8,2
+liver_metastasis,tumor_aggressive,Tumor-aggressive,rho_distance_to_caf_core,10,0.0271791165086125,0.261653152978629,6,4
+lymph_node_metastasis,apcaf,apCAF,rho_distance_to_caf_core,4,0.0648133294807904,0.108693146197897,3,1
+lymph_node_metastasis,b_cell,B cell,rho_distance_to_caf_core,4,0.21526393908223,0.328436136242444,3,1
+lymph_node_metastasis,basal_like,Basal-like tumor,rho_distance_to_caf_core,4,-0.227493597241535,0.26803408248382,1,3
+lymph_node_metastasis,classical_like,Classical-like tumor,rho_distance_to_caf_core,4,-0.305563980341545,0.603453692865524,1,3
+lymph_node_metastasis,dc_apc,DC/APC,rho_distance_to_caf_core,4,0.192397170535289,0.417078780011943,3,1
+lymph_node_metastasis,emt_invasion,EMT/invasion,rho_distance_to_caf_core,4,-0.0623282052773843,0.116732991122402,1,3
+lymph_node_metastasis,hypoxia,Hypoxia,rho_distance_to_caf_core,4,-0.150806870455827,0.135696673368948,1,3
+lymph_node_metastasis,icaf,iCAF,rho_distance_to_caf_core,4,0.056406679475511,0.139975978525444,2,2
+lymph_node_metastasis,ifn_mhc,IFN/MHC,rho_distance_to_caf_core,4,0.0806683466614131,0.219065746601355,3,1
+lymph_node_metastasis,immune_core,Immune core,rho_distance_to_caf_core,4,0.172866141619507,0.336970505888612,3,1
+lymph_node_metastasis,mycaf,myCAF,rho_distance_to_caf_core,4,-0.0128653728711627,0.231169367169266,2,2
+lymph_node_metastasis,myeloid,Myeloid,rho_distance_to_caf_core,4,-0.0331004118008397,0.0544417691767467,1,3
+lymph_node_metastasis,neural_schwann,Neural/Schwann,rho_distance_to_caf_core,4,-0.12543716866507,0.107228163073282,1,3
+lymph_node_metastasis,pan_caf,pan-CAF,rho_distance_to_caf_core,4,0.0255024136417336,0.210078813225791,2,2
+lymph_node_metastasis,plasma_cell,Plasma cell,rho_distance_to_caf_core,4,-0.118504538654752,0.382438670695919,1,3
+lymph_node_metastasis,spp1_tam,SPP1/TREM2 TAM,rho_distance_to_caf_core,4,0.0241878399334731,0.205993987979591,2,2
+lymph_node_metastasis,t_cell,T cell,rho_distance_to_caf_core,4,0.00657062971927899,0.164972879341199,2,2
+lymph_node_metastasis,tgfb,TGF-beta,rho_distance_to_caf_core,4,-0.0534366611504327,0.0979510564596286,1,3
+lymph_node_metastasis,tumor_aggressive,Tumor-aggressive,rho_distance_to_caf_core,4,-0.201683620648645,0.159485407226334,1,3
+normal_pancreas,apcaf,apCAF,rho_distance_to_caf_core,3,0.0390063785346509,0.0519241235828327,2,1
+normal_pancreas,b_cell,B cell,rho_distance_to_caf_core,3,0.0411771966248631,0.0815950725417267,2,1
+normal_pancreas,basal_like,Basal-like tumor,rho_distance_to_caf_core,3,0.0308818056550021,0.147380653394982,2,1
+normal_pancreas,classical_like,Classical-like tumor,rho_distance_to_caf_core,3,0.0947175239402272,0.188495349211977,2,1
+normal_pancreas,dc_apc,DC/APC,rho_distance_to_caf_core,3,0.140181237903047,0.0319768501389065,3,0
+normal_pancreas,emt_invasion,EMT/invasion,rho_distance_to_caf_core,3,0.223551731976151,0.120439189847791,3,0
+normal_pancreas,hypoxia,Hypoxia,rho_distance_to_caf_core,3,0.151475158113688,0.157886997942023,2,1
+normal_pancreas,icaf,iCAF,rho_distance_to_caf_core,3,0.115243375403628,0.0337894844785028,3,0
+normal_pancreas,ifn_mhc,IFN/MHC,rho_distance_to_caf_core,3,0.101414506276347,0.0781992329887551,3,0
+normal_pancreas,immune_core,Immune core,rho_distance_to_caf_core,3,0.0977308700642476,0.0181625962684766,3,0
+normal_pancreas,mycaf,myCAF,rho_distance_to_caf_core,3,-0.0376917127552899,0.152899798030625,1,2
+normal_pancreas,myeloid,Myeloid,rho_distance_to_caf_core,3,0.238671284485979,0.0787685042765974,3,0
+normal_pancreas,neural_schwann,Neural/Schwann,rho_distance_to_caf_core,3,0.0450634094526759,0.0611607966354491,2,1
+normal_pancreas,pan_caf,pan-CAF,rho_distance_to_caf_core,3,-0.00334546578539824,0.122291636669446,1,2
+normal_pancreas,plasma_cell,Plasma cell,rho_distance_to_caf_core,3,0.0673290031065565,0.105834805760955,2,1
+normal_pancreas,spp1_tam,SPP1/TREM2 TAM,rho_distance_to_caf_core,3,0.192267952974798,0.127970309549803,3,0
+normal_pancreas,t_cell,T cell,rho_distance_to_caf_core,3,0.0601758624553995,0.0120402610585079,3,0
+normal_pancreas,tgfb,TGF-beta,rho_distance_to_caf_core,3,0.142200620077278,0.0772567297480899,3,0
+normal_pancreas,tumor_aggressive,Tumor-aggressive,rho_distance_to_caf_core,3,0.140904111179091,0.118271658777098,3,0

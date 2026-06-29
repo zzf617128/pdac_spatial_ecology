@@ -1,0 +1,32 @@
+# Raw and external datasets are too large for GitHub and remain available from public repositories.
+data/
+
+# Exclude historical/intermediate results by default.
+results/*
+
+# Keep the active revision workspace and submission package.
+!results/revision_2026_06_29/
+!results/revision_2026_06_29/**
+!results/REVISION_SUBMISSION_PACKAGE_2026_06_29/
+!results/REVISION_SUBMISSION_PACKAGE_2026_06_29/**
+
+# Keep selected provenance reports used by the revised manuscript.
+!results/reports/
+results/reports/*
+!results/reports/submission_package_index.md
+!results/reports/submission_figure_captions_and_source_map.md
+!results/reports/references_versions_reproducibility.md
+
+# Avoid committing compressed package duplicates and local caches.
+*.zip
+__pycache__/
+.pytest_cache/
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS/editor noise.
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
