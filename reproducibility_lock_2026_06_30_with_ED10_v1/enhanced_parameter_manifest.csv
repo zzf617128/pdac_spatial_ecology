@@ -1,0 +1,8 @@
+analysis,parameter,value,note
+ED10 v1,version,v1,No ED10 v2 created
+GSE310352 CosMx,support_unit,slide/FOV-level,Patient/specimen/tissue-block identifiers not recoverable from public processed-slide metadata
+GSE310352 CosMx,cell_state_definition,rule-based,Processed CSV had no author cell-type annotation
+GSE310352 CosMx,TGF/EMT label,stromal-interface,Not tumor-intrinsic EMT; not causal EMT induction
+GSE310352 CosMx,gene-overlap boundary,MMP2 removed; MMP2+ITGA5 removed sensitivity retained 8/8 slide support,See non-overlap robustness table
+GeoMx,claim_scope,compartment-level support,No Visium gradient reconstruction
+Cho IMC,display_decision,source-only,Not included in ED10 v1

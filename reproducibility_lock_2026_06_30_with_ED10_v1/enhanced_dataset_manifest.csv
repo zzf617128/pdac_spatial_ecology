@@ -1,0 +1,5 @@
+dataset,platform,role,support_unit,lock_evidence,boundary
+GSE240078,GeoMx DSP,ED10 v1 compartment-level validation,AOI compartment-level,ED10 source data and GSE199102-GSE240078 concordance outputs,No causal signaling; no direct SPP1-CD44 stromal support
+GSE199102,GeoMx WTA,ED10 v1 independent compartment-level validation,segment/ROI/patient-level summaries where public metadata allowed,"GSE199102 source data, final decision report, concordance table",Compartment-level support only
+GSE310352,CosMx SMI,ED10 v1 cell-level stromal-interface support,slide/FOV-level only,"CosMx source data, robustness tables, patient-mapping boundary, cell-state transparency QC",Rule-based states; author annotations unavailable; not patient-level; not tumor-intrinsic EMT
+Zenodo 15596960 Cho rapid-autopsy PDAC IMC,IMC,source-only archive,ROI/sample-level source-only,Cho IMC final decision report and source tables,Not included in ED10 v1; not used to upgrade ED10; source-only

@@ -1,53 +1,87 @@
 # PDAC CAF-Myeloid Spatial Ecology
 
-This repository contains the analysis code, figure-generation scripts, processed source tables and revision package for a public-data spatial transcriptomics study of CAF-myeloid stromal cores in pancreatic ductal adenocarcinoma.
+This repository contains analysis code, figure-generation scripts, processed source tables and reproducibility manifests for a public-data spatial transcriptomics study of CAF-myeloid stromal architecture in pancreatic ductal adenocarcinoma.
 
-## Active Revision Package
+## Current Submission Candidate
 
-The current manuscript-revision workspace is:
+The current manuscript-facing package is:
 
-- `results/revision_2026_06_29/`
+- `results/submission_package_v3_2026_07_01/`
 
-The current submission-ready working package is:
+The submission-ready subset is:
 
-- `results/REVISION_SUBMISSION_PACKAGE_2026_06_29/`
+- `results/submission_package_v3_2026_07_01/submission_ready/`
 
-GitHub repository:
+The upload-ready archive is:
+
+- `results/submission_package_v3_2026_07_01_submission_ready_only.zip`
+
+The enhanced reproducibility lock is:
+
+- `reproducibility_lock_2026_06_30_with_ED10_v1/`
+
+This version adds Extended Data Fig. 10 as an orthogonal validation figure while preserving the original frozen base lock:
+
+- `reproducibility_lock_2026_06_30/`
+
+## Planned Release
+
+Recommended release tag:
+
+- `v2026.07.01-ed10-submission`
+
+Recommended GitHub release title:
+
+- `PDAC spatial ecology ED10 submission package (2026-07-01)`
+
+The release should point to the exact commit used for submission and should be paired with a Zenodo archive for the submission source-data package.
+
+## ED10 Scope
+
+Extended Data Fig. 10 provides orthogonal support for CAF/matrix compartment and TGF/EMT stromal-interface organization:
+
+- GSE240078 GeoMx: compartment-level support.
+- GSE199102 GeoMx: independent compartment-level replication.
+- GSE310352 CosMx: slide/FOV-level CAF/matrix-associated TGF/EMT stromal-interface support.
+- Cho IMC: source-only archive, not included in ED10 v1.
+
+Claim boundaries:
+
+- No causal signaling is claimed.
+- No direct SPP1-CD44 validation is claimed.
+- No tumor-intrinsic EMT claim is made from GSE310352.
+- No Visium distance-gradient reconstruction is claimed from ED10.
+- GSE310352 is interpreted at slide/FOV level because public metadata did not allow reliable patient/specimen recovery for processed slides.
+
+## Code Availability
+
+Analysis scripts, figure-generation code and reproducibility manifests are maintained in this public repository:
 
 - `https://github.com/zzf617128/pdac_spatial_ecology`
 
-Key files:
+For submission, cite the fixed release:
 
-- Revised manuscript: `results/revision_2026_06_29/manuscript/Manuscript_NatureSubjournal_revised.docx`
-- Figure panel map: `results/revision_2026_06_29/docs/figure_panel_map.md`
-- Source-data manifest: `results/revision_2026_06_29/source_data/source_data_file_manifest.csv`
-- Plotting-code archive: `results/revision_2026_06_29/figure_plot_code_archive/`
-- Panel-level plotting-code index: `results/revision_2026_06_29/figure_plot_code_archive/panel_code_index.csv`
+- `v2026.07.01-ed10-submission`
 
-## Scope
-
-The repository is intended for peer-review access to:
-
-- spatial preprocessing and module-scoring scripts;
-- same-size random-core and spatially contiguous random-core analyses;
-- CAF-only, myeloid-only and CAF-myeloid anchor sensitivity analyses;
-- marker-overlap sensitivity analyses;
-- lymph-node metastasis leave-one-out analyses;
-- NMF rank-stability analyses;
-- Xenium, TCGA and H&E context analyses;
-- manuscript display-item source data and plotting scripts.
+If a Zenodo DOI is minted for the GitHub release or data package, add the DOI to the manuscript availability statement before final submission.
 
 ## Data Policy
 
-Raw public datasets are not committed to this repository because they are large and remain available from GEO, TCGA, UCSC Xena, Zenodo or linked public resources. The active revision package includes processed source data for plotted quantitative panels and manifests that identify file sizes, checksums and provenance.
+Raw public datasets are not committed to this repository because they are large and remain available from GEO, TCGA, UCSC Xena, Zenodo or linked public resources.
+
+The submission source-data package contains the plotted quantitative source data and is intended to be archived separately on Zenodo:
+
+- `results/submission_package_v3_2026_07_01_submission_ready_only.zip`
+
+Large derived files should remain in the Zenodo archive or journal source-data package rather than being committed directly to the Git repository.
 
 ## Reproducibility Notes
 
-The revision workspace includes:
+Key v3 files:
 
-- `results/revision_2026_06_29/docs/revision_log.md`
-- `results/revision_2026_06_29/docs/claim_language_audit_2026_06_29.md`
-- `results/revision_2026_06_29/docs/revision_task_completion_audit_2026_06_29.md`
-- `results/revision_2026_06_29/figure_plot_code_archive/README.md`
+- `results/submission_package_v3_2026_07_01/README_submission_package_v3.md`
+- `results/submission_package_v3_2026_07_01/docs/submission_v3_QA_report.md`
+- `results/submission_package_v3_2026_07_01/docs/local_path_audit_submission_v3.md`
+- `results/submission_package_v3_2026_07_01/manifest/checksums_sha256_submission_v3.txt`
+- `reproducibility_lock_2026_06_30_with_ED10_v1/checksums_sha256_enhanced_lock.txt`
 
-These documents describe the active manuscript state, claim boundaries, figure mapping and figure-code synchronization rules.

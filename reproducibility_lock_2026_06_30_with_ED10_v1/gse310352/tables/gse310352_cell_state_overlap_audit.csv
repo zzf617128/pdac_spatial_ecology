@@ -1,0 +1,100 @@
+metric,numerator,denominator,fraction,summary_level,slide,n_total,n_caf,n_tgf,n_tumor,n_immune,interpretation
+CAF and TGF/EMT overlap as fraction of CAF,2985,10179,0.29325081049219,slide,slide1,124165,10179,17680,34686,46111,TGF/EMT interface includes CAF/matrix-high component
+CAF and TGF/EMT overlap as fraction of TGF/EMT,2985,17680,0.168834841628959,slide,slide1,124165,10179,17680,34686,46111,descriptive overlap metric
+TGF/EMT and tumor epithelial overlap as fraction of TGF/EMT,14695,17680,0.831165158371041,slide,slide1,124165,10179,17680,34686,46111,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT and immune overlap as fraction of TGF/EMT,0,17680,0,slide,slide1,124165,10179,17680,34686,46111,minimal immune overlap
+TGF/EMT cells with CAF/matrix-high state,2985,17680,0.168834841628959,slide,slide1,124165,10179,17680,34686,46111,descriptive overlap metric
+TGF/EMT cells with tumor epithelial-like state,14695,17680,0.831165158371041,slide,slide1,124165,10179,17680,34686,46111,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF/matrix-like only,2985,17680,0.168834841628959,slide,slide1,124165,10179,17680,34686,46111,descriptive overlap metric
+TGF/EMT composition: tumor epithelial-like only,14695,17680,0.831165158371041,slide,slide1,124165,10179,17680,34686,46111,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF and tumor overlap,0,17680,0,slide,slide1,124165,10179,17680,34686,46111,descriptive overlap metric
+TGF/EMT composition: immune-like,0,17680,0,slide,slide1,124165,10179,17680,34686,46111,minimal immune overlap
+TGF/EMT composition: neither CAF/tumor/immune,0,17680,0,slide,slide1,124165,10179,17680,34686,46111,minimal immune overlap
+CAF and TGF/EMT overlap as fraction of CAF,5032,10044,0.500995619275189,slide,slide2,118096,10044,12666,37450,45778,TGF/EMT interface includes CAF/matrix-high component
+CAF and TGF/EMT overlap as fraction of TGF/EMT,5032,12666,0.397284067582504,slide,slide2,118096,10044,12666,37450,45778,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT and tumor epithelial overlap as fraction of TGF/EMT,7634,12666,0.602715932417496,slide,slide2,118096,10044,12666,37450,45778,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT and immune overlap as fraction of TGF/EMT,0,12666,0,slide,slide2,118096,10044,12666,37450,45778,minimal immune overlap
+TGF/EMT cells with CAF/matrix-high state,5032,12666,0.397284067582504,slide,slide2,118096,10044,12666,37450,45778,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT cells with tumor epithelial-like state,7634,12666,0.602715932417496,slide,slide2,118096,10044,12666,37450,45778,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF/matrix-like only,5032,12666,0.397284067582504,slide,slide2,118096,10044,12666,37450,45778,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT composition: tumor epithelial-like only,7634,12666,0.602715932417496,slide,slide2,118096,10044,12666,37450,45778,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF and tumor overlap,0,12666,0,slide,slide2,118096,10044,12666,37450,45778,descriptive overlap metric
+TGF/EMT composition: immune-like,0,12666,0,slide,slide2,118096,10044,12666,37450,45778,minimal immune overlap
+TGF/EMT composition: neither CAF/tumor/immune,0,12666,0,slide,slide2,118096,10044,12666,37450,45778,minimal immune overlap
+CAF and TGF/EMT overlap as fraction of CAF,3794,9666,0.392509828264018,slide,slide3,67100,9666,7736,17842,17902,TGF/EMT interface includes CAF/matrix-high component
+CAF and TGF/EMT overlap as fraction of TGF/EMT,3794,7736,0.490434332988625,slide,slide3,67100,9666,7736,17842,17902,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT and tumor epithelial overlap as fraction of TGF/EMT,3942,7736,0.509565667011375,slide,slide3,67100,9666,7736,17842,17902,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT and immune overlap as fraction of TGF/EMT,156,7736,0.0201654601861427,slide,slide3,67100,9666,7736,17842,17902,minimal immune overlap
+TGF/EMT cells with CAF/matrix-high state,3794,7736,0.490434332988625,slide,slide3,67100,9666,7736,17842,17902,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT cells with tumor epithelial-like state,3942,7736,0.509565667011375,slide,slide3,67100,9666,7736,17842,17902,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF/matrix-like only,3794,7736,0.490434332988625,slide,slide3,67100,9666,7736,17842,17902,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT composition: tumor epithelial-like only,3942,7736,0.509565667011375,slide,slide3,67100,9666,7736,17842,17902,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF and tumor overlap,0,7736,0,slide,slide3,67100,9666,7736,17842,17902,descriptive overlap metric
+TGF/EMT composition: immune-like,0,7736,0,slide,slide3,67100,9666,7736,17842,17902,minimal immune overlap
+TGF/EMT composition: neither CAF/tumor/immune,0,7736,0,slide,slide3,67100,9666,7736,17842,17902,minimal immune overlap
+CAF and TGF/EMT overlap as fraction of CAF,4906,11767,0.416928698903714,slide,slide4,88103,11767,8617,21704,24434,TGF/EMT interface includes CAF/matrix-high component
+CAF and TGF/EMT overlap as fraction of TGF/EMT,4906,8617,0.56933967738192,slide,slide4,88103,11767,8617,21704,24434,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT and tumor epithelial overlap as fraction of TGF/EMT,3711,8617,0.43066032261808,slide,slide4,88103,11767,8617,21704,24434,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT and immune overlap as fraction of TGF/EMT,254,8617,0.0294766159916444,slide,slide4,88103,11767,8617,21704,24434,minimal immune overlap
+TGF/EMT cells with CAF/matrix-high state,4906,8617,0.56933967738192,slide,slide4,88103,11767,8617,21704,24434,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT cells with tumor epithelial-like state,3711,8617,0.43066032261808,slide,slide4,88103,11767,8617,21704,24434,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF/matrix-like only,4906,8617,0.56933967738192,slide,slide4,88103,11767,8617,21704,24434,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT composition: tumor epithelial-like only,3711,8617,0.43066032261808,slide,slide4,88103,11767,8617,21704,24434,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF and tumor overlap,0,8617,0,slide,slide4,88103,11767,8617,21704,24434,descriptive overlap metric
+TGF/EMT composition: immune-like,0,8617,0,slide,slide4,88103,11767,8617,21704,24434,minimal immune overlap
+TGF/EMT composition: neither CAF/tumor/immune,0,8617,0,slide,slide4,88103,11767,8617,21704,24434,minimal immune overlap
+CAF and TGF/EMT overlap as fraction of CAF,2662,6865,0.387764020393299,slide,slide5,57464,6865,5248,14421,14704,TGF/EMT interface includes CAF/matrix-high component
+CAF and TGF/EMT overlap as fraction of TGF/EMT,2662,5248,0.507240853658537,slide,slide5,57464,6865,5248,14421,14704,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT and tumor epithelial overlap as fraction of TGF/EMT,2586,5248,0.492759146341463,slide,slide5,57464,6865,5248,14421,14704,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT and immune overlap as fraction of TGF/EMT,208,5248,0.0396341463414634,slide,slide5,57464,6865,5248,14421,14704,minimal immune overlap
+TGF/EMT cells with CAF/matrix-high state,2662,5248,0.507240853658537,slide,slide5,57464,6865,5248,14421,14704,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT cells with tumor epithelial-like state,2586,5248,0.492759146341463,slide,slide5,57464,6865,5248,14421,14704,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF/matrix-like only,2662,5248,0.507240853658537,slide,slide5,57464,6865,5248,14421,14704,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT composition: tumor epithelial-like only,2586,5248,0.492759146341463,slide,slide5,57464,6865,5248,14421,14704,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF and tumor overlap,0,5248,0,slide,slide5,57464,6865,5248,14421,14704,descriptive overlap metric
+TGF/EMT composition: immune-like,0,5248,0,slide,slide5,57464,6865,5248,14421,14704,minimal immune overlap
+TGF/EMT composition: neither CAF/tumor/immune,0,5248,0,slide,slide5,57464,6865,5248,14421,14704,minimal immune overlap
+CAF and TGF/EMT overlap as fraction of CAF,3076,8347,0.36851563435965,slide,slide5b2,73401,8347,7774,18334,28032,TGF/EMT interface includes CAF/matrix-high component
+CAF and TGF/EMT overlap as fraction of TGF/EMT,3076,7774,0.395677900694623,slide,slide5b2,73401,8347,7774,18334,28032,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT and tumor epithelial overlap as fraction of TGF/EMT,4698,7774,0.604322099305377,slide,slide5b2,73401,8347,7774,18334,28032,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT and immune overlap as fraction of TGF/EMT,0,7774,0,slide,slide5b2,73401,8347,7774,18334,28032,minimal immune overlap
+TGF/EMT cells with CAF/matrix-high state,3076,7774,0.395677900694623,slide,slide5b2,73401,8347,7774,18334,28032,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT cells with tumor epithelial-like state,4698,7774,0.604322099305377,slide,slide5b2,73401,8347,7774,18334,28032,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF/matrix-like only,3076,7774,0.395677900694623,slide,slide5b2,73401,8347,7774,18334,28032,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT composition: tumor epithelial-like only,4698,7774,0.604322099305377,slide,slide5b2,73401,8347,7774,18334,28032,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF and tumor overlap,0,7774,0,slide,slide5b2,73401,8347,7774,18334,28032,descriptive overlap metric
+TGF/EMT composition: immune-like,0,7774,0,slide,slide5b2,73401,8347,7774,18334,28032,minimal immune overlap
+TGF/EMT composition: neither CAF/tumor/immune,0,7774,0,slide,slide5b2,73401,8347,7774,18334,28032,minimal immune overlap
+CAF and TGF/EMT overlap as fraction of CAF,1532,3668,0.417666303162486,slide,slide5b3,42857,3668,4564,12549,16642,TGF/EMT interface includes CAF/matrix-high component
+CAF and TGF/EMT overlap as fraction of TGF/EMT,1532,4564,0.33567046450482,slide,slide5b3,42857,3668,4564,12549,16642,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT and tumor epithelial overlap as fraction of TGF/EMT,3032,4564,0.66432953549518,slide,slide5b3,42857,3668,4564,12549,16642,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT and immune overlap as fraction of TGF/EMT,0,4564,0,slide,slide5b3,42857,3668,4564,12549,16642,minimal immune overlap
+TGF/EMT cells with CAF/matrix-high state,1532,4564,0.33567046450482,slide,slide5b3,42857,3668,4564,12549,16642,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT cells with tumor epithelial-like state,3032,4564,0.66432953549518,slide,slide5b3,42857,3668,4564,12549,16642,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF/matrix-like only,1532,4564,0.33567046450482,slide,slide5b3,42857,3668,4564,12549,16642,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT composition: tumor epithelial-like only,3032,4564,0.66432953549518,slide,slide5b3,42857,3668,4564,12549,16642,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF and tumor overlap,0,4564,0,slide,slide5b3,42857,3668,4564,12549,16642,descriptive overlap metric
+TGF/EMT composition: immune-like,0,4564,0,slide,slide5b3,42857,3668,4564,12549,16642,minimal immune overlap
+TGF/EMT composition: neither CAF/tumor/immune,0,4564,0,slide,slide5b3,42857,3668,4564,12549,16642,minimal immune overlap
+CAF and TGF/EMT overlap as fraction of CAF,6645,13575,0.489502762430939,slide,slide6,89004,13575,9566,20712,25564,TGF/EMT interface includes CAF/matrix-high component
+CAF and TGF/EMT overlap as fraction of TGF/EMT,6645,9566,0.694647710641857,slide,slide6,89004,13575,9566,20712,25564,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT and tumor epithelial overlap as fraction of TGF/EMT,2921,9566,0.305352289358143,slide,slide6,89004,13575,9566,20712,25564,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT and immune overlap as fraction of TGF/EMT,286,9566,0.0298975538365043,slide,slide6,89004,13575,9566,20712,25564,minimal immune overlap
+TGF/EMT cells with CAF/matrix-high state,6645,9566,0.694647710641857,slide,slide6,89004,13575,9566,20712,25564,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT cells with tumor epithelial-like state,2921,9566,0.305352289358143,slide,slide6,89004,13575,9566,20712,25564,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF/matrix-like only,6645,9566,0.694647710641857,slide,slide6,89004,13575,9566,20712,25564,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT composition: tumor epithelial-like only,2921,9566,0.305352289358143,slide,slide6,89004,13575,9566,20712,25564,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF and tumor overlap,0,9566,0,slide,slide6,89004,13575,9566,20712,25564,descriptive overlap metric
+TGF/EMT composition: immune-like,0,9566,0,slide,slide6,89004,13575,9566,20712,25564,minimal immune overlap
+TGF/EMT composition: neither CAF/tumor/immune,0,9566,0,slide,slide6,89004,13575,9566,20712,25564,minimal immune overlap
+CAF and TGF/EMT overlap as fraction of CAF,30632,74111,0.41332595701043,overall,all,660190,74111,73851,177698,219167,TGF/EMT interface includes CAF/matrix-high component
+CAF and TGF/EMT overlap as fraction of TGF/EMT,30632,73851,0.414781113322772,overall,all,660190,74111,73851,177698,219167,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT and tumor epithelial overlap as fraction of TGF/EMT,43219,73851,0.585218886677228,overall,all,660190,74111,73851,177698,219167,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT and immune overlap as fraction of TGF/EMT,904,73851,0.0122408633600087,overall,all,660190,74111,73851,177698,219167,minimal immune overlap
+TGF/EMT cells with CAF/matrix-high state,30632,73851,0.414781113322772,overall,all,660190,74111,73851,177698,219167,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT cells with tumor epithelial-like state,43219,73851,0.585218886677228,overall,all,660190,74111,73851,177698,219167,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF/matrix-like only,30632,73851,0.414781113322772,overall,all,660190,74111,73851,177698,219167,TGF/EMT interface includes CAF/matrix-high component
+TGF/EMT composition: tumor epithelial-like only,43219,73851,0.585218886677228,overall,all,660190,74111,73851,177698,219167,TGF/EMT interface includes epithelial-proximal component; avoid tumor-intrinsic EMT claim
+TGF/EMT composition: CAF and tumor overlap,0,73851,0,overall,all,660190,74111,73851,177698,219167,descriptive overlap metric
+TGF/EMT composition: immune-like,0,73851,0,overall,all,660190,74111,73851,177698,219167,minimal immune overlap
+TGF/EMT composition: neither CAF/tumor/immune,0,73851,0,overall,all,660190,74111,73851,177698,219167,minimal immune overlap

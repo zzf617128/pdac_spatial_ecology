@@ -1,0 +1,5 @@
+metric,n_roi,n_patients,median_roi,roi_support_fraction_positive,patient_median,patient_support_fraction_positive,median_random_label_p,median_abundance_p,median_density_p
+CAF_stromal_to_myeloid_log2OE,64,12,0.185235269417342,0.796875,0.203076567568317,0.916666666666667,0.0099009900990099,0.0099009900990099,0.0099009900990099
+stromal_neighborhood_macrophage_delta,64,12,0.00370223971689729,0.515625,0.00522396177672116,0.583333333333333,,,
+tumor_stroma_myeloid_interface_log2OE,64,12,0.0608744835969725,0.53125,0.00506498079932664,0.5,,,
+HLA_DR_interface_myeloid_delta,64,12,-0.498575569494261,0.0967741935483871,-0.425445519806119,0.181818181818182,,,

@@ -1,0 +1,7 @@
+field,value
+n_aoi_in_expression_matrix,223
+n_genes,858
+n_patients,40
+aoi_type_counts,stroma=114;tumor=109
+treatment_counts,Naïve=85;Treated=138
+metadata_columns,title;geo_accession;tissue;treatment;tissue.type;dcc_id;sample_id;roi_id;patient_id;aoi_type

@@ -1,0 +1,9 @@
+parameter,value
+figure_width_in,13.5
+figure_height_in,9.2
+geomx_main_modules,caf_mycaf;pancaf_matrix;myeloid_macrophage;immune_core;ifn_apc;tgfb_emt;tumor_epithelial;tumor_aggressive
+gse199102_tme_like_definition,CAF plus Immune segments minus Epithelial segments at patient level
+gse310352_cosmx_modules,tgfb_emt; tgfb_emt_no_shared; tgfb_emt_no_shared_no_integrin
+cosmx_robustness_groups,threshold; normalization; spatial null; leave-one-slide-out
+spp1_tam_policy,shown only as boundary/tumor-high observation; not stromal support
+claim_policy,orthogonal compartment/interface support only; no causality or direct SPP1-CD44

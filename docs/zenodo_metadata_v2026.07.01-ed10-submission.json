@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "title": "PDAC spatial ecology ED10 submission source-data package (2026-07-01)",
+    "upload_type": "dataset",
+    "publication_date": "2026-07-01",
+    "description": "Submission source-data package for a public-data spatial transcriptomics study of CAF-myeloid stromal architecture in pancreatic ductal adenocarcinoma. This archive contains the v3 submission-ready manuscript support package, including figure source data and Extended Data Fig. 10 source data. The associated code repository is https://github.com/zzf617128/pdac_spatial_ecology. Claim boundaries: GSE310352 CosMx evidence is interpreted at slide/FOV level, not patient/specimen level; TGF/EMT is interpreted as stromal-interface organization, not tumor-intrinsic EMT; no causal signaling or direct SPP1-CD44 validation is claimed.",
+    "creators": [
+      {
+        "name": "Zhao, Zhifeng"
+      }
+    ],
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "keywords": [
+      "pancreatic ductal adenocarcinoma",
+      "spatial transcriptomics",
+      "Visium",
+      "Xenium",
+      "GeoMx",
+      "CosMx",
+      "cancer-associated fibroblasts",
+      "myeloid",
+      "source data"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/zzf617128/pdac_spatial_ecology",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      }
+    ],
+    "version": "v2026.07.01-ed10-submission"
+  }
+}
+

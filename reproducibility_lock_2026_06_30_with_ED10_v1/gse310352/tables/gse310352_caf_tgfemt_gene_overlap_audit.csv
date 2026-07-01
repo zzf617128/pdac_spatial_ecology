@@ -1,0 +1,4 @@
+comparison,caf_genes,tgfb_genes,shared_genes,n_caf,n_tgfb,n_shared,overlap_pct_of_tgfb,interpretation
+CAF_vs_TGFEMT,ACTA2;TAGLN;COL1A1;COL1A2;COL3A1;DCN;LUM;FN1;POSTN;MMP2;FAP;PDPN,TGFB1;TGFB2;TGFBR1;TGFBR2;VIM;ZEB1;SNAI1;SNAI2;MMP2;MMP9;ITGA5,MMP2,12,11,1,0.0909090909090909,Only direct gene overlap is MMP2; test no-shared and no-integrin sensitivity.
+CAF_vs_TGFEMT_no_shared,ACTA2;TAGLN;COL1A1;COL1A2;COL3A1;DCN;LUM;FN1;POSTN;MMP2;FAP;PDPN,TGFB1;TGFB2;TGFBR1;TGFBR2;VIM;ZEB1;SNAI1;SNAI2;MMP9;ITGA5,"",12,10,0,0,Shared CAF gene removed.
+CAF_vs_TGFEMT_no_shared_no_integrin,ACTA2;TAGLN;COL1A1;COL1A2;COL3A1;DCN;LUM;FN1;POSTN;MMP2;FAP;PDPN,TGFB1;TGFB2;TGFBR1;TGFBR2;VIM;ZEB1;SNAI1;SNAI2;MMP9,"",12,9,0,0,Shared CAF gene and ITGA5 removed as stringent matrix/integrin sensitivity.

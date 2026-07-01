@@ -1,0 +1,104 @@
+panel,dataset,module,module_label,metric,value,support,note
+A,Conceptual schematic,orthogonal_validation_layers,Discovery to GeoMx/CosMx,schematic,,,Visium/Xenium discovery model; GeoMx compartment-level validation; CosMx stromal-interface validation
+B,GSE240078 GeoMx DSP,caf_mycaf,CAF/myCAF,delta_TME_minus_carcinoma,1.07631149363634,,TME-high program
+B,GSE240078 GeoMx DSP,pancaf_matrix,panCAF/matrix,delta_TME_minus_carcinoma,1.06568539820791,,TME-high program
+B,GSE240078 GeoMx DSP,myeloid_macrophage,Myeloid/macrophage,delta_TME_minus_carcinoma,0.926253154270486,,TME-high program
+B,GSE240078 GeoMx DSP,tgfb_emt,TGF/EMT,delta_TME_minus_carcinoma,0.378652924072247,,TME-high program
+B,GSE240078 GeoMx DSP,ifn_apc,IFN/APC,delta_TME_minus_carcinoma,0.16605683041727,,TME-high program
+B,GSE240078 GeoMx DSP,immune_core,Immune-core,delta_TME_minus_carcinoma,0.709136141549444,,TME-high program
+B,GSE240078 GeoMx DSP,tumor_aggressive,Tumor-aggressive,delta_TME_minus_carcinoma,-0.744827209371476,,Tumor-high control
+B,GSE240078 GeoMx DSP,tumor_epithelial,Tumor epithelial,delta_TME_minus_carcinoma,-1.19900724631849,,Tumor-high control
+C,GSE199102 GeoMx WTA,caf_mycaf,CAF/myCAF,delta_TME_like_minus_epithelial,0.807553634903634,1,TME-high program
+C,GSE199102 GeoMx WTA,ifn_apc,IFN/APC,delta_TME_like_minus_epithelial,0.22624691983389,0.8,TME-high program
+C,GSE199102 GeoMx WTA,immune_core,Immune-core,delta_TME_like_minus_epithelial,0.327919674854149,1,TME-high program
+C,GSE199102 GeoMx WTA,myeloid_macrophage,Myeloid/macrophage,delta_TME_like_minus_epithelial,0.477962841354362,1,TME-high program
+C,GSE199102 GeoMx WTA,pancaf_matrix,panCAF/matrix,delta_TME_like_minus_epithelial,0.823572675762406,1,TME-high program
+C,GSE199102 GeoMx WTA,tgfb_emt,TGF/EMT,delta_TME_like_minus_epithelial,0.444328041319515,0.85,TME-high program
+C,GSE199102 GeoMx WTA,tumor_aggressive,Tumor-aggressive,delta_TME_like_minus_epithelial,-0.975263354041108,0,Tumor-high control
+C,GSE199102 GeoMx WTA,tumor_epithelial,Tumor epithelial,delta_TME_like_minus_epithelial,-1.09349980533317,0,Tumor-high control
+D,"GSE240078
+DSP",caf_mycaf,CAF/myCAF,delta_for_direction_concordance,1.07631149363634,,TME/stroma high
+D,"GSE240078
+DSP",ifn_apc,IFN/APC,delta_for_direction_concordance,0.16605683041727,,TME/stroma high
+D,"GSE240078
+DSP",immune_core,Immune-core,delta_for_direction_concordance,0.709136141549444,,TME/stroma high
+D,"GSE240078
+DSP",myeloid_macrophage,Myeloid/macrophage,delta_for_direction_concordance,0.926253154270486,,TME/stroma high
+D,"GSE240078
+DSP",pancaf_matrix,panCAF/matrix,delta_for_direction_concordance,1.06568539820791,,TME/stroma high
+D,"GSE240078
+DSP",spp1_tam,SPP1/TAM,delta_for_direction_concordance,-0.312314634424025,,"Tumor high
+(boundary)"
+D,"GSE240078
+DSP",t_cell,T cell,delta_for_direction_concordance,0.966899762524054,,TME/stroma high
+D,"GSE240078
+DSP",tgfb_emt,TGF/EMT,delta_for_direction_concordance,0.378652924072247,,TME/stroma high
+D,"GSE240078
+DSP",tumor_aggressive,Tumor-aggressive,delta_for_direction_concordance,-0.744827209371476,,Tumor high
+D,"GSE240078
+DSP",tumor_epithelial,Tumor epithelial,delta_for_direction_concordance,-1.19900724631849,,Tumor high
+D,"GSE199102
+WTA",caf_mycaf,CAF/myCAF,delta_for_direction_concordance,0.807553634903634,,TME/stroma high
+D,"GSE199102
+WTA",ifn_apc,IFN/APC,delta_for_direction_concordance,0.22624691983389,,TME/stroma high
+D,"GSE199102
+WTA",immune_core,Immune-core,delta_for_direction_concordance,0.327919674854149,,TME/stroma high
+D,"GSE199102
+WTA",myeloid_macrophage,Myeloid/macrophage,delta_for_direction_concordance,0.477962841354362,,TME/stroma high
+D,"GSE199102
+WTA",pancaf_matrix,panCAF/matrix,delta_for_direction_concordance,0.823572675762406,,TME/stroma high
+D,"GSE199102
+WTA",spp1_tam,SPP1/TAM,delta_for_direction_concordance,-0.277501299004479,,"Tumor high
+(boundary)"
+D,"GSE199102
+WTA",t_cell,T cell,delta_for_direction_concordance,0.577695667492223,,TME/stroma high
+D,"GSE199102
+WTA",tgfb_emt,TGF/EMT,delta_for_direction_concordance,0.444328041319515,,TME/stroma high
+D,"GSE199102
+WTA",tumor_aggressive,Tumor-aggressive,delta_for_direction_concordance,-0.975263354041108,,Tumor high
+D,"GSE199102
+WTA",tumor_epithelial,Tumor epithelial,delta_for_direction_concordance,-1.09349980533317,,Tumor high
+E,GSE199102 GeoMx WTA,caf_mycaf,CAF/myCAF,paired_CAF_minus_epithelial_positive_fraction,0.989071038251366,0.989071038251366,n_roi=183; median_delta=1.449
+E,GSE199102 GeoMx WTA,pancaf_matrix,panCAF/matrix,paired_CAF_minus_epithelial_positive_fraction,0.989071038251366,0.989071038251366,n_roi=183; median_delta=1.408
+E,GSE199102 GeoMx WTA,tgfb_emt,TGF/EMT,paired_CAF_minus_epithelial_positive_fraction,0.896174863387978,0.896174863387978,n_roi=183; median_delta=0.617
+E,GSE199102 GeoMx WTA,ifn_apc,IFN/APC,paired_CAF_minus_epithelial_positive_fraction,0.540983606557377,0.540983606557377,n_roi=183; median_delta=0.033
+E,GSE199102 GeoMx WTA,immune_core,Immune-core,paired_CAF_minus_epithelial_positive_fraction,0.830601092896175,0.830601092896175,n_roi=183; median_delta=0.178
+F,GSE310352 CosMx,tgfb_emt,Original TGF/EMT,slide_level_log2_observed_expected,0.582240660204748,1,slide1
+F,GSE310352 CosMx,tgfb_emt_no_shared,Remove MMP2,slide_level_log2_observed_expected,0.342759546589031,0.947368421052632,slide1
+F,GSE310352 CosMx,tgfb_emt_no_shared_no_integrin,Remove MMP2 + ITGA5,slide_level_log2_observed_expected,0.355767159734124,0.842105263157895,slide1
+F,GSE310352 CosMx,tgfb_emt,Original TGF/EMT,slide_level_log2_observed_expected,0.35852274222925,0.80952380952381,slide2
+F,GSE310352 CosMx,tgfb_emt_no_shared,Remove MMP2,slide_level_log2_observed_expected,0.26913859675674,0.761904761904762,slide2
+F,GSE310352 CosMx,tgfb_emt_no_shared_no_integrin,Remove MMP2 + ITGA5,slide_level_log2_observed_expected,0.248660042075808,0.761904761904762,slide2
+F,GSE310352 CosMx,tgfb_emt,Original TGF/EMT,slide_level_log2_observed_expected,0.532975205643995,1,slide3
+F,GSE310352 CosMx,tgfb_emt_no_shared,Remove MMP2,slide_level_log2_observed_expected,0.296334353280893,0.842105263157895,slide3
+F,GSE310352 CosMx,tgfb_emt_no_shared_no_integrin,Remove MMP2 + ITGA5,slide_level_log2_observed_expected,0.150638675219321,0.736842105263158,slide3
+F,GSE310352 CosMx,tgfb_emt,Original TGF/EMT,slide_level_log2_observed_expected,0.610273285241779,1,slide4
+F,GSE310352 CosMx,tgfb_emt_no_shared,Remove MMP2,slide_level_log2_observed_expected,0.575406454483109,0.9,slide4
+F,GSE310352 CosMx,tgfb_emt_no_shared_no_integrin,Remove MMP2 + ITGA5,slide_level_log2_observed_expected,0.559795297344305,0.95,slide4
+F,GSE310352 CosMx,tgfb_emt,Original TGF/EMT,slide_level_log2_observed_expected,1.08677064436,1,slide6
+F,GSE310352 CosMx,tgfb_emt_no_shared,Remove MMP2,slide_level_log2_observed_expected,0.802202859602197,1,slide6
+F,GSE310352 CosMx,tgfb_emt_no_shared_no_integrin,Remove MMP2 + ITGA5,slide_level_log2_observed_expected,0.752947706615359,0.947368421052632,slide6
+F,GSE310352 CosMx,tgfb_emt,Original TGF/EMT,slide_level_log2_observed_expected,0.987415796716112,0.9375,slide5
+F,GSE310352 CosMx,tgfb_emt_no_shared,Remove MMP2,slide_level_log2_observed_expected,0.573224774914158,0.875,slide5
+F,GSE310352 CosMx,tgfb_emt_no_shared_no_integrin,Remove MMP2 + ITGA5,slide_level_log2_observed_expected,0.541114639267677,0.875,slide5
+F,GSE310352 CosMx,tgfb_emt,Original TGF/EMT,slide_level_log2_observed_expected,0.745981133479403,1,slide5b2
+F,GSE310352 CosMx,tgfb_emt_no_shared,Remove MMP2,slide_level_log2_observed_expected,0.431919124565186,0.96,slide5b2
+F,GSE310352 CosMx,tgfb_emt_no_shared_no_integrin,Remove MMP2 + ITGA5,slide_level_log2_observed_expected,0.35716901110005,0.92,slide5b2
+F,GSE310352 CosMx,tgfb_emt,Original TGF/EMT,slide_level_log2_observed_expected,0.847114632355959,1,slide5b3
+F,GSE310352 CosMx,tgfb_emt_no_shared,Remove MMP2,slide_level_log2_observed_expected,0.601877730977665,1,slide5b3
+F,GSE310352 CosMx,tgfb_emt_no_shared_no_integrin,Remove MMP2 + ITGA5,slide_level_log2_observed_expected,0.62666252126646,1,slide5b3
+G,GSE310352 CosMx,top5,Threshold,robustness_support_fraction,1,1,median_log2OE=0.951; n=8
+G,GSE310352 CosMx,top10,Threshold,robustness_support_fraction,1,1,median_log2OE=0.678; n=8
+G,GSE310352 CosMx,top15,Threshold,robustness_support_fraction,1,1,median_log2OE=0.543; n=8
+G,GSE310352 CosMx,z1,Threshold,robustness_support_fraction,1,1,median_log2OE=0.849; n=8
+G,GSE310352 CosMx,z15,Threshold,robustness_support_fraction,1,1,median_log2OE=1.106; n=8
+G,GSE310352 CosMx,z2,Threshold,robustness_support_fraction,1,1,median_log2OE=0.918; n=8
+G,GSE310352 CosMx,raw_log_z,Normalization,robustness_support_fraction,1,1,median_log2OE=0.678; n=8
+G,GSE310352 CosMx,libnorm_log_z,Normalization,robustness_support_fraction,1,1,median_log2OE=0.826; n=8
+G,GSE310352 CosMx,rank,Normalization,robustness_support_fraction,1,1,median_log2OE=0.776; n=8
+G,GSE310352 CosMx,Within-FOV,Spatial null,robustness_support_fraction,1,1,median_log2OE=0.678; n=8
+G,GSE310352 CosMx,Within-slide,Spatial null,robustness_support_fraction,1,1,median_log2OE=0.678; n=8
+G,GSE310352 CosMx,Abundance-matched,Spatial null,robustness_support_fraction,1,1,median_log2OE=0.678; n=8
+G,GSE310352 CosMx,All omissions,Leave-one-slide-out,robustness_support_fraction,1,1,median_log2OE=0.678; n=8
+H,Inference scope,claim_boundaries,Supported and not claimed,scope_statement,,,"Compartment-level GeoMx and CosMx stromal-interface support only; no causality, direct SPP1-CD44, tumor-intrinsic EMT, Visium gradient reconstruction, or LN immune uncoupling"
+D,Boundary note,spp1_tam,SPP1/TAM,not_stromal_support,-0.277501299004479,0.1,GSE240078 delta=-0.312; GSE199102 delta=-0.278; report separately
