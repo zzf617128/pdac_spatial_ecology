@@ -40,7 +40,7 @@ gh release create v2026.07.01-ed10-submission `
 
 ## 3. Zenodo data archive
 
-Create a draft deposition and upload the submission-ready package:
+Create a draft deposition and upload the source-data package:
 
 ```powershell
 py -3 scripts/upload_zenodo_submission_package.py
@@ -48,7 +48,7 @@ py -3 scripts/upload_zenodo_submission_package.py
 
 Default uploaded file:
 
-- `results/submission_package_v3_2026_07_01_submission_ready_only.zip`
+- `results/PDAC_spatial_ecology_source_data.zip`
 
 Default behavior:
 
@@ -84,9 +84,8 @@ Recommended wording is in:
 - Confirm uploaded archive SHA256 matches:
 
 ```text
-51adc30a844f780c8a94d7bb49389786f2b7408150be2e3d6b1cda4e1e4e3bc0
+7e2b08e368c7008610dbae51de743fa379af3b4d742a92dfc4b2a70d896ca215
 ```
 
 - Confirm no patient/specimen-level wording is used for GSE310352.
 - Confirm Cho IMC remains source-only and is not described as part of ED10 v1.
-

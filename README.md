@@ -12,9 +12,9 @@ The submission-ready subset is:
 
 - `results/submission_package_v3_2026_07_01/submission_ready/`
 
-The upload-ready archive is:
+The Zenodo-ready source-data archive is:
 
-- `results/submission_package_v3_2026_07_01_submission_ready_only.zip`
+- `results/PDAC_spatial_ecology_source_data.zip`
 
 The enhanced reproducibility lock is:
 
@@ -69,9 +69,9 @@ If a Zenodo DOI is minted for the GitHub release or data package, add the DOI to
 
 Raw public datasets are not committed to this repository because they are large and remain available from GEO, TCGA, UCSC Xena, Zenodo or linked public resources.
 
-The submission source-data package contains the plotted quantitative source data and is intended to be archived separately on Zenodo:
+The source-data package contains the plotted quantitative source data and is intended to be archived separately on Zenodo:
 
-- `results/submission_package_v3_2026_07_01_submission_ready_only.zip`
+- `results/PDAC_spatial_ecology_source_data.zip`
 
 Large derived files should remain in the Zenodo archive or journal source-data package rather than being committed directly to the Git repository.
 
@@ -84,4 +84,3 @@ Key v3 files:
 - `results/submission_package_v3_2026_07_01/docs/local_path_audit_submission_v3.md`
 - `results/submission_package_v3_2026_07_01/manifest/checksums_sha256_submission_v3.txt`
 - `reproducibility_lock_2026_06_30_with_ED10_v1/checksums_sha256_enhanced_lock.txt`
-

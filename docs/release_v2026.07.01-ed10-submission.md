@@ -16,20 +16,20 @@ This release fixes the code, figure-generation scripts, reproducibility manifest
 - Preserves the original base reproducibility lock at `reproducibility_lock_2026_06_30/`.
 - Adds the enhanced ED10 reproducibility lock at `reproducibility_lock_2026_06_30_with_ED10_v1/`.
 
-## Submission package
+## Submission and source-data package
 
 Current package:
 
 - `results/submission_package_v3_2026_07_01/`
 
-Upload-ready subset:
+Zenodo source-data archive:
 
-- `results/submission_package_v3_2026_07_01_submission_ready_only.zip`
+- `results/PDAC_spatial_ecology_source_data.zip`
 
 SHA256:
 
 ```text
-51adc30a844f780c8a94d7bb49389786f2b7408150be2e3d6b1cda4e1e4e3bc0  results/submission_package_v3_2026_07_01_submission_ready_only.zip
+7e2b08e368c7008610dbae51de743fa379af3b4d742a92dfc4b2a70d896ca215  results/PDAC_spatial_ecology_source_data.zip
 ```
 
 Full internal package:
@@ -65,5 +65,4 @@ gh release create v2026.07.01-ed10-submission `
   --notes-file docs/release_v2026.07.01-ed10-submission.md
 ```
 
-The large submission archive should be deposited on Zenodo for DOI-backed data availability rather than committed directly to the Git repository.
-
+The source-data archive should be deposited on Zenodo for DOI-backed data availability rather than committed directly to the Git repository.
