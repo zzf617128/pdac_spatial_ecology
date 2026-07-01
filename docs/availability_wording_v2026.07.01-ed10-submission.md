@@ -8,18 +8,17 @@ Recommended wording:
 
 If a Zenodo DOI is minted for the GitHub release, append:
 
-> An archived copy of the release is available at Zenodo: [DOI to be added].
+> An archived source-data package is available at Zenodo: https://doi.org/10.5281/zenodo.21092084.
 
 ## Data availability
 
 Recommended wording:
 
-> Public datasets analyzed in this study are available under the accessions listed in the Data availability statement. Source data for the main and extended data figures are provided with the manuscript. The v3 submission source-data package and reproducibility archive are deposited at Zenodo: [DOI to be added].
+> Public datasets analyzed in this study are available under the accessions listed in the Data availability statement. Source data for the main and extended data figures are available at Zenodo: https://doi.org/10.5281/zenodo.21092084.
 
 ## Notes before final submission
 
-- Replace `[DOI to be added]` after the Zenodo deposition is published.
+- Zenodo source-data DOI: `10.5281/zenodo.21092084`.
 - Confirm the final accession list in the manuscript Data availability statement.
 - Confirm whether the journal wants the full internal provenance archive or only the `submission_ready` source-data package.
 - Do not describe GSE310352 as patient-level or specimen-level validation.
-

@@ -25,6 +25,7 @@ Current package:
 Zenodo source-data archive:
 
 - `results/PDAC_spatial_ecology_source_data.zip`
+- `https://doi.org/10.5281/zenodo.21092084`
 
 SHA256:
 
@@ -66,3 +67,8 @@ gh release create v2026.07.01-ed10-submission `
 ```
 
 The source-data archive should be deposited on Zenodo for DOI-backed data availability rather than committed directly to the Git repository.
+
+Published Zenodo source-data DOI:
+
+- `10.5281/zenodo.21092084`
+- `https://zenodo.org/records/21092084`

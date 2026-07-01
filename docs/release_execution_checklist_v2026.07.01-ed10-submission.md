@@ -73,6 +73,11 @@ py -3 scripts/upload_zenodo_submission_package.py --sandbox
 
 After Zenodo publication, replace `[DOI to be added]` in the manuscript and release notes with the final DOI.
 
+Published DOI:
+
+- `10.5281/zenodo.21092084`
+- `https://zenodo.org/records/21092084`
+
 Recommended wording is in:
 
 - `docs/availability_wording_v2026.07.01-ed10-submission.md`

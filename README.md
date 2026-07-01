@@ -65,6 +65,11 @@ For submission, cite the fixed release:
 
 If a Zenodo DOI is minted for the GitHub release or data package, add the DOI to the manuscript availability statement before final submission.
 
+Source-data DOI:
+
+- `10.5281/zenodo.21092084`
+- `https://zenodo.org/records/21092084`
+
 ## Data Policy
 
 Raw public datasets are not committed to this repository because they are large and remain available from GEO, TCGA, UCSC Xena, Zenodo or linked public resources.
@@ -72,6 +77,7 @@ Raw public datasets are not committed to this repository because they are large 
 The source-data package contains the plotted quantitative source data and is intended to be archived separately on Zenodo:
 
 - `results/PDAC_spatial_ecology_source_data.zip`
+- `https://doi.org/10.5281/zenodo.21092084`
 
 Large derived files should remain in the Zenodo archive or journal source-data package rather than being committed directly to the Git repository.
 
