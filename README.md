@@ -24,34 +24,7 @@ This version adds Extended Data Fig. 10 as an orthogonal validation figure while
 
 - `reproducibility_lock_2026_06_30/`
 
-## Planned Release
 
-Recommended release tag:
-
-- `v2026.07.01-ed10-submission`
-
-Recommended GitHub release title:
-
-- `PDAC spatial ecology ED10 submission package (2026-07-01)`
-
-The release should point to the exact commit used for submission and should be paired with a Zenodo archive for the submission source-data package.
-
-## ED10 Scope
-
-Extended Data Fig. 10 provides orthogonal support for CAF/matrix compartment and TGF/EMT stromal-interface organization:
-
-- GSE240078 GeoMx: compartment-level support.
-- GSE199102 GeoMx: independent compartment-level replication.
-- GSE310352 CosMx: slide/FOV-level CAF/matrix-associated TGF/EMT stromal-interface support.
-- Cho IMC: source-only archive, not included in ED10 v1.
-
-Claim boundaries:
-
-- No causal signaling is claimed.
-- No direct SPP1-CD44 validation is claimed.
-- No tumor-intrinsic EMT claim is made from GSE310352.
-- No Visium distance-gradient reconstruction is claimed from ED10.
-- GSE310352 is interpreted at slide/FOV level because public metadata did not allow reliable patient/specimen recovery for processed slides.
 
 ## Code Availability
 
@@ -81,12 +54,3 @@ The source-data package contains the plotted quantitative source data and is int
 
 Large derived files should remain in the Zenodo archive or journal source-data package rather than being committed directly to the Git repository.
 
-## Reproducibility Notes
-
-Key v3 files:
-
-- `results/submission_package_v3_2026_07_01/README_submission_package_v3.md`
-- `results/submission_package_v3_2026_07_01/docs/submission_v3_QA_report.md`
-- `results/submission_package_v3_2026_07_01/docs/local_path_audit_submission_v3.md`
-- `results/submission_package_v3_2026_07_01/manifest/checksums_sha256_submission_v3.txt`
-- `reproducibility_lock_2026_06_30_with_ED10_v1/checksums_sha256_enhanced_lock.txt`
