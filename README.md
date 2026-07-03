@@ -2,28 +2,6 @@
 
 This repository contains analysis code, figure-generation scripts, processed source tables and reproducibility manifests for a public-data spatial transcriptomics study of CAF-myeloid stromal architecture in pancreatic ductal adenocarcinoma.
 
-## Current Submission Candidate
-
-The current manuscript-facing package is:
-
-- `results/submission_package_v3_2026_07_01/`
-
-The submission-ready subset is:
-
-- `results/submission_package_v3_2026_07_01/submission_ready/`
-
-The Zenodo-ready source-data archive is:
-
-- `results/PDAC_spatial_ecology_source_data.zip`
-
-The enhanced reproducibility lock is:
-
-- `reproducibility_lock_2026_06_30_with_ED10_v1/`
-
-This version adds Extended Data Fig. 10 as an orthogonal validation figure while preserving the original frozen base lock:
-
-- `reproducibility_lock_2026_06_30/`
-
 
 
 ## Code Availability
